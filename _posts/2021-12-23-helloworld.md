@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: POST TITLE
 subtitle: POST SUBTITLE
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2021-12-23 12:00:00
 categories: posts
 ---
 
