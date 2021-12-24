@@ -2,23 +2,34 @@
 layout: about
 title: "Hyunsik Park"
 subtitle: "Just Developer / Enjoy Programming / Do not interest to invest / 😀 / 🇰🇷"
-cover: /assets/images/posts/2021-12-21-Freedom.png
+cover: /assets/images/posts/HyunsikPark.png
 date:   2021-12-21 12:00:00
 ---
 
-### 0. CURRENT
+<table  style="width: 100%;" >
+    <tr>
+        <td style="width: 30%;">
+            <img src="/assets/images/posts/HyunsikPark.png" style="width: 100%">
+        </td>
+        <td class="px-3 py-3" style="vertical-align: top;">
+            <h3>0. CURRENT</h3>
+            <p>LINUX, AWS, NODEJS, KLAYTN, NFT, TMUX, NODEJS, WEBRTC, REACT, DOCKER, BOOTSTRAP, JAVASCRIPT, FONTAWESOME</p>
+            <ul>
+                <li>
+                    <p><strong>NFT PILOT (2021/12/08 ~ 2021/12/16)</strong></p>
+                    <p>KLAYTN을 이용한 간단한 NFT 발행하는 것에 대한 파일럿 진행</p>
+                </li>
+                <li>
+                    <p><strong>WEBRTC PILOT (2021/12/17 ~ 2021/12/22)</strong></p>
+                    <p>간단한 화상채팅을 위한 파일럿 진행</p>
+                    <p><img src="/assets/images/posts/xwebvideochat.gif" style="width: 30%"></p>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
-LINUX, AWS, NODEJS, KLAYTN, NFT, TMUX, NODEJS, WEBRTC, REACT, DOCKER, BOOTSTRAP, JAVASCRIPT, FONTAWESOME
 
-- NFT PILOT (2021/12/08 ~ 2021/12/16)
-
-  KLAYTN을 이용한 간단한 NFT 발행하는 것에 대한 파일럿 진행
-
-- WEBRTC PILOT (2021/12/17 ~ 2021/12/22)
-    
-  <img src="/assets/images/posts/xwebvideochat.gif" style="width: 50%">
-
-  간단한 화상채팅을 위한 파일럿 진행
 
 ### 1. PROGRAMMING LANGUAGE
 
