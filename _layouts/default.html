@@ -45,7 +45,19 @@
                         <a class="text-white" href="https://www.instagram.com/novemberizing/"><i class="fab fa-instagram-square fa-lg"></i></a>
                         <a class="text-white" href="#"><i class="fas fa-rss-square fa-lg"></i></a>
                     </li>
-                    <hr >
+                    <hr />
+                    <li class="nav-item">
+                        {% if page.previous.url %}
+                            <a class="prev text-white text-decoration-none text-uppercase" href="{{page.previous.url}}"><small><i class="fas fa-caret-square-left"></i> {{page.previous.title}}</small></a>
+                        {% endif %}
+                        {% if page.previous.url and page.next.url %}
+                        |
+                        {% endif %}
+                        {% if page.next.url %}
+                            <a class="next text-white text-decoration-none text-uppercase" href="{{page.next.url}}"><small>{{page.next.title}} <i class="fas fa-caret-square-right"></i></small></a>
+                        {% endif %}
+                    </li>
+                    <hr />
                     <li class="nav-item">
                         <div class="d-none d-lg-block text-white">
                             <small>
