@@ -15,3 +15,4 @@ source ~/.bashrc
 gem install jekyll bundler
 ```
 
+<meta property="og:image" content="https://novemberizing.github.io/assets/images/posts/20211221Freedom.jpg">
