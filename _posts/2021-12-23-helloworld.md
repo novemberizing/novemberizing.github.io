@@ -2,7 +2,7 @@
 layout: post
 title: Helloworld
 subtitle: POST SUBTITLE
-cover: /assets/images/posts/20211221Freedom.jpg
+cover: /assets/images/posts/2021-12-21-Freedom.png
 date:   2021-12-23 12:00:00
 categories: posts
 ---
