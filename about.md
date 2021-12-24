@@ -9,12 +9,11 @@ date:   2021-12-21 12:00:00
 <table  style="width: 100%;" >
     <tr>
         <td style="width: 25%;">
-            <img src="/assets/images/posts/HyunsikPark.png" style="width: 100%">
+            <img src="/assets/images/posts/HyunsikPark.png" style="width: 100%; vertical-align: top;">
         </td>
         <td class="px-3 py-3" style="vertical-align: top;">
             <h4>저는 박현식이라고 합니다.</h4>
             <p>저는 그냥 개발자입니다. 프로그래밍을 하는 것을 즐기며, 무엇인가 프로그래밍을 통하여 만들어 내는 것을 좋아합니다.</p>
-            <p>요즘들어, 투자 관련한 문의가 많아서 간단한 소개 한 줄에 투자에 관심없다고 적어 놓기는 하였습니다.</p>
             <p>
                 저는 세상에 작은 가치라도 주고 싶어한답니다.
                 많은 실수와 실패를 거듭하고, 성공도 해보았지만, 남는 것은 그렇게 많지 않네요.
@@ -35,6 +34,8 @@ date:   2021-12-21 12:00:00
         </td>
     </tr>
 </table>
+
+## Curriculum vitae
 
 ### 0. CURRENT
 
