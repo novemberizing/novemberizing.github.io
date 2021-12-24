@@ -1,15 +1,57 @@
 ---
 layout: default
-title: Example post
+title: POST TITLE
+subtitle: POST SUBTITLE
 cover: cover.jpg
 date:   2013-12-09 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## Heading 2
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+Paragraph
 
-## Open Sourced on GitHub
+### Heading 3
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
+Paragraph
+
+#### Heading 4
+
+Paragraph
+
+##### Heading 5
+
+Paragraph
+
+###### Heading 6
+
+Paragraph
+
+```c
+#include <stdio.h>
+
+int main(int argc, char **argv)
+{
+    printf("hello world\n");
+    return 0;
+}
+```
+
+> Reference
+>
+> note: attention
+
+1. First
+2. Second
+3. Thired
+4. Fourth
+
+- First
+- Second
+- Third
+- Fourth
+
+| Table H | Table H |
+| ------- | ------- |
+| 1       | 2       |
+| 3       | 4       |
