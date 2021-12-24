@@ -1,19 +1,30 @@
 <section class="resume-section">
     <div class="resume-section-content">
-        <h1 class="mb-0"><a href="{{ post.url }}">{{ page.title }}</a></h1>
-        <div class="subheading mx-2">
+        <h1 class="mb-0"><a href="{{ post.url }}" class="text-black text-decoration-none">{{ page.title }}</a></h1>
+        <div class="subheading mx-2 mb-5">
             {{ page.subtitle }}
         </div>
         <div class="mb-5 px-2">
             {{ content }}
         </div>
-        <div class="mb-5 px-2">
+        <div class="mb-1 px-2 text-uppercase">
             Published on {{ post.date | date_to_string }}
             |
-            <a class="text-secondary" href="#"><i class="fab fa-linkedin fa-lg"></i></a>
-            <a class="text-secondary" href="#"><i class="fab fa-facebook-square fa-lg"></i></a>
-            <a class="text-secondary" href="#"><i class="fab fa-twitter-square fa-lg"></i></a>
-            <a class="text-secondary" href="#"><i class="fas fa-rss-square fa-lg"></i></a>
+            <a class="text-secondary text-decoration-none" href="#"><i class="fab fa-linkedin fa-lg"></i></a>
+            <a class="text-secondary text-decoration-none" href="#"><i class="fab fa-facebook-square fa-lg"></i></a>
+            <a class="text-secondary text-decoration-none" href="#"><i class="fab fa-twitter-square fa-lg"></i></a>
+            <a class="text-secondary text-decoration-none" href="#"><i class="fas fa-rss-square fa-lg"></i></a>
+        </div>
+        <div class="mb-5 px-2 text-uppercase">
+            {% if page.previous.url %}
+                <a class="prev text-secondary text-decoration-none" href="{{page.previous.url}}"><i class="fas fa-caret-square-left"></i> {{page.previous.title}}</a>
+            {% endif %}
+            {% if page.previous.url and page.next.url %}
+            |
+            {% endif %}
+            {% if page.next.url %}
+                <a class="next text-secondary text-decoration-none" href="{{page.next.url}}">{{page.next.title}} <i class="fas fa-caret-square-right"></i></a>
+            {% endif %}
         </div>
     </div>
 </section>
