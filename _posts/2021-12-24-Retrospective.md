@@ -3,7 +3,7 @@ layout: post
 title: "2021년 회고"
 subtitle: "스스로 지키지 않으면 누구도 지켜주지 않는다."
 cover: /assets/images/posts/2021-12-25-Retrospective.png
-date: "2021-12-25 10:43:00"
+date: "2021-12-24 10:43:00"
 categories: posts
 tags: ["2021년", "회고", "데이터빈", "에이유클리드"]
 ---
