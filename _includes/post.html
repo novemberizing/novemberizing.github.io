@@ -1,8 +1,13 @@
 <section class="resume-section">
     <div class="resume-section-content">
-        <h1 class="mb-1"><a href="{{ post.url }}" class="text-black text-decoration-none">{{ page.title }}</a></h1>
-        <div class="subheading mx-2 mb-5">
+        <h1 class="mb-2"><a href="{{ post.url }}" class="text-black text-decoration-none">{{ page.title }}</a></h1>
+        <div class="subheading mx-2 mb-2">
             {{ page.subtitle }}
+        </div>
+        <div class="mx-2 mb-5">
+            {% for tag in page.tags %}
+                <span class="badge badge-outline-secondary">{{ tag }}</span>
+            {% endfor %}
         </div>
         <div class="mb-5 px-2">
             {{ content }}
