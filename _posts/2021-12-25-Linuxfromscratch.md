@@ -62,9 +62,9 @@ PS. 표준 스펙에 대한 내용까지 적었는데, -388자 라고 글을 못
 
 여기의 링크는 느긋하게 한 번 읽어 보시길 제안 드립니다. 표준은 중요합니다. 표준에서 벗어나지 않습니다. 살짝 Windows 가 표준에서 벗어났지만, 이름이 알려진 OS 들은 이 표준을 거의 따르고 있답니다.
 
-- POSIX.1-2008 / https://lnkd.in/gWCDug2x
-- Filesystem Hierarchy Standard (FHS) Version 3.0 / https://lnkd.in/gYBkud3V
-- Linux Standard Base (LSB) Version 5.0 (2015) / https://lnkd.in/gzTGZr5Q
+- [POSIX.1-2008](https://pubs.opengroup.org/onlinepubs/9699919799/)
+- [Filesystem Hierarchy Standard (FHS) Version 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
+- [Linux Standard Base (LSB) Version 5.0 (2015)](https://refspecs.linuxfoundation.org/lsb.shtml)
 
 "Many people do not agree with the requirements of the LSB." 이 문구가 눈에 띄네요. 사실 많은 사람들이 취향이 다양하기 때문에 굳이 따르지 않는다. 다만, 의무 사항 같은 SHOULD 의 느낌이네요.
 
@@ -168,11 +168,11 @@ PS. 아쉽네요. 아! 패키지 옆에 패키지에 대한 설명도 달아 놓
 
 문제로 인해서 특정 기능이 제대로 동작하지 않을 경우가 있을지도 모르는데, 그 때 아래 링크가 도움이 되실 것입니다.
 
-https://lnkd.in/ep_u_GZH
+https://www.linuxfromscratch.org/lfs/errata/11.0/
 
 또한, 보안적인 문제 및 권고 사항을 확인하시려면 아래의 링크에서 확인하시면 됩니다.
 
-https://lnkd.in/eRPEvy8Y
+https://www.linuxfromscratch.org/lfs/advisories/
 
 PS. 다음부터 "파트1"로 넘어가려 합니다. 여행 준비 하는 거죠. "파트1"의 내용 중에 가장 중요한 부분이 "How to Build an LFS System" 입니다. "그래서 어떻게 해야하는데?"에 대한 질문에 답인 거죠. 나머지는 디테일한 부분일 것입니다. 오늘은 "-100자" 이런 문구가 뜨지 않네요. 하하하! 양 조절 잘한 듯 보입니다.
 
@@ -200,24 +200,24 @@ PS. 다음부터 "파트1"로 넘어가려 합니다. 여행 준비 하는 거�
 
 11장에서는 "The End" 그렇죠. 그 다음에 나오는 것은 "Appendix" 라는 것이죠.
 
-- 1. 기존 리눅스 상에서 시작하여
-- 2. 설치를 위한 파일시스템을 만들고
-- 3. 시스템 구축에 필요한 패키지와 패치를 다운로드하고
-- 4. 작업을 위해 환경을 설정하고 (주의 깊게 읽을 것)
-- 5. 크로스 컴파일 및 툴체인 설치 (gcc, binutils, glibc)
-- 6. 크로스 툴체인을 이용하여 기본 유틸리티를 컴파일
-- 7. "chroot" 를 이용하여 최종 시스템을 빌드하고 테스트하고 추가적인 툴들을 설치하고
-- 8. 실제 시스템을 구축하고
-- 9. 커널과 부트로더를 설정하는 것
+- 기존 리눅스 상에서 시작하여
+- 설치를 위한 파일시스템을 만들고
+- 시스템 구축에 필요한 패키지와 패치를 다운로드하고
+- 작업을 위해 환경을 설정하고 (주의 깊게 읽을 것)
+- 크로스 컴파일 및 툴체인 설치 (gcc, binutils, glibc)
+- 크로스 툴체인을 이용하여 기본 유틸리티를 컴파일
+- "chroot" 를 이용하여 최종 시스템을 빌드하고 테스트하고 추가적인 툴들을 설치하고
+- 실제 시스템을 구축하고
+- 커널과 부트로더를 설정하는 것
 
 그리하여 대망의 자신만의 컴팩트한 리눅스 시스템을 설치하는 것이 막을 내리겠죠. The End. 어렵지 않아요.
 
 아래의 링크는 문제가 생기면 혹시나 저한테 묻지 마시고, 아래에 FAQ, MAILING LISTS, IRC 등을 이용하시는 것이 더 좋죠. 그런거죠. : - )
 
-FAQ / https://lnkd.in/eiCUwkdP
-Mailing Lists / https://lnkd.in/eZ3UFMr7 / https://lnkd.in/eMZc99dN
-IRC / irc.libera.chat (support channel name : # LFS-support)
-Mirror Sites / https://lnkd.in/eWrUbWjy
+- [FAQ](https://www.linuxfromscratch.org/faq/)
+- [Mailing Lists](https://www.linuxfromscratch.org/search.html)
+- IRC / irc.libera.chat (support channel name : # LFS-support)
+- [Mirror Sites](https://www.linuxfromscratch.org/mirrors.html)
 
 PS. 오늘도 양조절 잘했습니다. 흐흐흐! 다음에는 빌드를 위한 준비 작업을 설명할 것 입니다. 저는 우분투 설치 CD 를 이용하여 우분투를 설치하는 것이 아니라 저만의 리눅스를 설치하려 합니다. 아마도, 여기 있는 버전을 그대로 따르지는 않을 것 같습니다. 최신 버전을 사용해서 설치 쉘 스크립트를 만들려 해보고 있지요. 실패할 것 같은데 뭐 해보죠. 늘 그런거죠. 시도! 그리고 실패! 그것을 극복! 킄! 시간만 더 걸릴 것 같네요. : - (
 
@@ -316,4 +316,36 @@ rm -f dummy.c dummy
 EOF
 
 bash version-check.sh
+```
+
+lenovo ideapad s215 에서 우분투 라이브 USB 를 이용하여 작업을 진행하려 합니다.
+
+```shell
+wget https://lnkd.in/g7Mk4jZ5
+chmod 755 ./version.check.sh
+./version.check.sh
+```
+
+결과적으로 아래의 패키지 및 설정이 필요합니다.
+
+```shell
+ERROR: /bin/sh does not point to bash
+ld: command not found
+bison: command not found
+gawk: command not found
+gcc: command not found
+g++: command not found
+m4: command not found
+make: command not found
+makeinfo: command not foun
+g++: command not found
+```
+
+makeinfo 외에 다른 패키지들은 아래처럼 설치하면 문제가 해결 됩니다.
+
+```shell
+sudo apt update
+sudo apt install build-essential
+sudo apt install bison
+sudo apt install gawk
 ```
