@@ -2,7 +2,7 @@
 layout: post
 title: "X Web video chat"
 subtitle: "X Web Video Chat 개발기"
-cover: /assets/images/posts/2021-12-25-Retrospective.png
+cover: /assets/images/posts/1639878329632.jpeg
 date: "2021-12-25 09:18:00"
 categories: posts
 tags: ["X Web video chat"]
