@@ -221,7 +221,7 @@ Mirror Sites / https://lnkd.in/eWrUbWjy
 
 PS. 오늘도 양조절 잘했습니다. 흐흐흐! 다음에는 빌드를 위한 준비 작업을 설명할 것 입니다. 저는 우분투 설치 CD 를 이용하여 우분투를 설치하는 것이 아니라 저만의 리눅스를 설치하려 합니다. 아마도, 여기 있는 버전을 그대로 따르지는 않을 것 같습니다. 최신 버전을 사용해서 설치 쉘 스크립트를 만들려 해보고 있지요. 실패할 것 같은데 뭐 해보죠. 늘 그런거죠. 시도! 그리고 실패! 그것을 극복! 킄! 시간만 더 걸릴 것 같네요. : - (
 
-### 9. Preparing for the build / Preparing the Host System
+### 9. [Preparing for the build / Preparing the Host System](https://linuxfromscratch.org/lfs/view/stable/chapter02/hostreqs.html)
 
 호스트 시스템에서 새롭게 설치할 리눅스 파티션 작업부터 필요한 툴들을 설치하고 마지막으로 준비한 파티션에 파일시스템을 생성하고 그것을 마운트 하는 작업까지가 준비 작업입니다.
 
