@@ -2,7 +2,7 @@
 layout: post
 title: "Linux from scratch"
 subtitle: "Linux from scratch "
-cover: /assets/images/posts/2021-12-25-Retrospective.png
+cover: /assets/images/posts/2021-12-25-Linuxfromscratch.png
 date: "2021-12-25 10:11:00"
 categories: posts
 tags: ["Linux from scratch"]
@@ -220,4 +220,100 @@ IRC / irc.libera.chat (support channel name : # LFS-support)
 Mirror Sites / https://lnkd.in/eWrUbWjy
 
 PS. 오늘도 양조절 잘했습니다. 흐흐흐! 다음에는 빌드를 위한 준비 작업을 설명할 것 입니다. 저는 우분투 설치 CD 를 이용하여 우분투를 설치하는 것이 아니라 저만의 리눅스를 설치하려 합니다. 아마도, 여기 있는 버전을 그대로 따르지는 않을 것 같습니다. 최신 버전을 사용해서 설치 쉘 스크립트를 만들려 해보고 있지요. 실패할 것 같은데 뭐 해보죠. 늘 그런거죠. 시도! 그리고 실패! 그것을 극복! 킄! 시간만 더 걸릴 것 같네요. : - (
-    
+
+### 9. Preparing for the build / Preparing the Host System
+
+호스트 시스템에서 새롭게 설치할 리눅스 파티션 작업부터 필요한 툴들을 설치하고 마지막으로 준비한 파티션에 파일시스템을 생성하고 그것을 마운트 하는 작업까지가 준비 작업입니다.
+
+1. 빌드에 필요한 호스트 툴을 체크하고 만약에 필요하면 설치 진행
+2. 파티션을 준비
+3. 파일시스템을 만들고 마운트
+
+#### Host System Requirements
+
+호스트 시스템에 필요한 툴들은 아래와 같습니다.
+
+- Bash-3.2
+- Binutils-2.25
+- Bison-2.7
+- Bzip2-1.0.4
+- Coreutils-6.9
+- Diffutils-2.8.1
+- Findutils-4.2.31
+- Gawk-4.0.1
+- GCC-6.2
+- Glibc-2.11
+- Grep-2.5.1a
+- Gzip-1.3.12
+- Linux Kernel-3.2
+- M4-1.4.10
+- Make-4.0
+- Patch-2.5.4
+- Perl-5.8.8
+- Python-3.4
+- Sed-4.1.5
+- Tar-1.22
+- Texinfo-4.7
+- Xz-5.0.0
+
+```shell
+cat > version-check.sh << "EOF"
+#!/bin/bash
+# Simple script to list version numbers of critical development tools
+export LC_ALL=C
+bash --version | head -n1 | cut -d" " -f2-4
+MYSH=$(readlink -f /bin/sh)
+echo "/bin/sh -> $MYSH"
+echo $MYSH | grep -q bash || echo "ERROR: /bin/sh does not point to bash"
+unset MYSH
+
+echo -n "Binutils: "; ld --version | head -n1 | cut -d" " -f3-
+bison --version | head -n1
+
+if [ -h /usr/bin/yacc ]; then
+  echo "/usr/bin/yacc -> `readlink -f /usr/bin/yacc`";
+elif [ -x /usr/bin/yacc ]; then
+  echo yacc is `/usr/bin/yacc --version | head -n1`
+else
+  echo "yacc not found" 
+fi
+
+bzip2 --version 2>&1 < /dev/null | head -n1 | cut -d" " -f1,6-
+echo -n "Coreutils: "; chown --version | head -n1 | cut -d")" -f2
+diff --version | head -n1
+find --version | head -n1
+gawk --version | head -n1
+
+if [ -h /usr/bin/awk ]; then
+  echo "/usr/bin/awk -> `readlink -f /usr/bin/awk`";
+elif [ -x /usr/bin/awk ]; then
+  echo awk is `/usr/bin/awk --version | head -n1`
+else 
+  echo "awk not found" 
+fi
+
+gcc --version | head -n1
+g++ --version | head -n1
+ldd --version | head -n1 | cut -d" " -f2-  # glibc version
+grep --version | head -n1
+gzip --version | head -n1
+cat /proc/version
+m4 --version | head -n1
+make --version | head -n1
+patch --version | head -n1
+echo Perl `perl -V:version`
+python3 --version
+sed --version | head -n1
+tar --version | head -n1
+makeinfo --version | head -n1  # texinfo version
+xz --version | head -n1
+
+echo 'int main(){}' > dummy.c && g++ -o dummy dummy.c
+if [ -x dummy ]
+  then echo "g++ compilation OK";
+  else echo "g++ compilation failed"; fi
+rm -f dummy.c dummy
+EOF
+
+bash version-check.sh
+```
