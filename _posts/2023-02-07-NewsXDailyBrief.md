@@ -8,7 +8,7 @@ categories: posts
 tags: ["NewsX Daily Brief"]
 ---
 
-## __LaMDA 기반의 실험적인 대화형 AI 서비스인 "Bard"를 소개__
+### __LaMDA 기반의 실험적인 대화형 AI 서비스인 "Bard"를 소개__
 
 > [An important next step on our AI journey / Sundar Pichai - CEO of Google and Alphabet](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
