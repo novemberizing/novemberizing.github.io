@@ -32,7 +32,7 @@ tags: ["NewsX Daily Brief"]
 > [How startups are supporting the circular economy / Mike Werner - Head of Circular Economy, Global Sustainability Team](https://www.blog.google/outreach-initiatives/entrepreneurs/circular-economy-accelerator/)
 
 
-- 2022년 10월, Google은 순환 경제와 관련된 문제를 해결하기 위해 노력하는 북미 및 아시아 태평양 지역의 스타트업 및 비영리 조직을 지원하는 새로운 Google for Startups Accelerator를 출시
+- 2022년 10월, Google은 순환 경제와 관련된 문제를 해결하기 위해 노력하는 북미 및 아시아 태평양 지역의 스타트업 및 비영리 조직을 지원하는 새로운 Google for Startups Accelerator를 소개
 
     - <small>순환 경제는 선형 "가지고, 만들고, 낭비하는" 모델에서 벗어나 제품과 재료를 더 오래 사용하므로 낭비를 최소화하고 지구의 한정된 자원 절약</small>
 
