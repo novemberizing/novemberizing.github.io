@@ -21,8 +21,9 @@ tags: ["NewsX Daily Brief"]
         - 효율적으로 유용한 지식으로 전환하여 사람들이 찾고 있는 것의 핵심에 도달하고 작업을 완료할 수 있도록 하는 것임
         - 곧 검색에서 복잡한 정보와 다양한 관점을 이해하기 쉬운 형식으로 추출하는 AI 기반 기능 적용 계획
 
+
     - 책임감 있는 AI 개발이 목표
 
-A Message From Our CEO, AI, Google
-
-
+<span class="badge badge-outline-secondary">A Message From Our CEO</span>
+<span class="badge badge-outline-secondary">AI</span>
+<span class="badge badge-outline-secondary">Google</span>
