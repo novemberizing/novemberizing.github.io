@@ -66,13 +66,13 @@ tags: ["NewsX Daily Brief"]
 
 > [Answering 3 top questions on online safety in Asia-Pacific / Scott Beaumont - President Asia-Pacific, Google](https://www.blog.google/around-the-globe/google-asia/answering-3-top-questions-on-online-safety-in-asia-pacific/)
 
-- 내 온라인 계정을 보호하는 가장 좋은 방법
+- 내 온라인 계정을 보호하는 가장 좋은 방법 소개
 
     - 비밀번호 사용할 때, 각 온라인 계정에 강력하고 고유한 암호를 사용하는 것이 중요함
 
         - 2단계 인증(2SV)은 손상된 계정의 위험을 줄이는 또 다른 입증된 방법
 
-    - 사기 및 피싱 시도
+    - 사기 및 피싱 방지 기능
 
         - 피싱 방지 기능
 
