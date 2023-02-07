@@ -21,9 +21,39 @@ tags: ["NewsX Daily Brief"]
         - 효율적으로 유용한 지식으로 전환하여 사람들이 찾고 있는 것의 핵심에 도달하고 작업을 완료할 수 있도록 하는 것임
         - 곧 검색에서 복잡한 정보와 다양한 관점을 이해하기 쉬운 형식으로 추출하는 AI 기반 기능 적용 계획
 
-
     - 책임감 있는 AI 개발이 목표
 
 <span class="badge badge-outline-secondary">A Message From Our CEO</span>
 <span class="badge badge-outline-secondary">AI</span>
 <span class="badge badge-outline-secondary">Google</span>
+
+### __스타트업이 순환 경제를 지원하는 방법__
+
+> [How startups are supporting the circular economy / Mike Werner - Head of Circular Economy, Global Sustainability Team](https://www.blog.google/outreach-initiatives/entrepreneurs/circular-economy-accelerator/)
+
+
+- 2022년 10월, Google은 순환 경제와 관련된 문제를 해결하기 위해 노력하는 북미 및 아시아 태평양 지역의 스타트업 및 비영리 조직을 지원하는 새로운 Google for Startups Accelerator를 출시
+
+    - <small>순환 경제는 선형 "가지고, 만들고, 낭비하는" 모델에서 벗어나 제품과 재료를 더 오래 사용하므로 낭비를 최소화하고 지구의 한정된 자원 절약</small>
+
+- 선발된 12개 팀을 이 초대 그룹에 합류하게 되었음을 발표
+
+    - <small> 기술을 사용하여 음식물 쓰레기에서 패션, 재활용 및 재사용에 이르기까지 여러 복잡한 문제 영역에 대한 솔루션을 만듦</small>
+
+- 순환 경제는 재료와 제품을 줄이고, 재사용하고, 수리하고, 개조하고, 재활용하는 원칙인 5R을 기반
+
+    - 제품을 만드는 데 많은 에너지가 필요하고 그 에너지는 대부분 석탄 및 천연 가스와 같은 탄소 기반 소스에서 나오므로 순환성은 사용 중인 재료와 관련된 탄소 배출량을 더 오래 유지하는 데 도움
+
+- 선별된 팀의 사업 모델
+
+    - 쇼핑객들이 쇼핑 방식을 바꾸지 않고 중고 제품을 구매
+
+        - 제품을 만드는 데 많은 에너지가 필요하고 그 에너지는 대부분 석탄 및 천연 가스와 같은 탄소 기반 소스에서 나오므로 순환성은 사용 중인 재료와 관련된 탄소 배출량을 더 오래 유지하는 데 도움
+
+    - 기계 학습과 AI를 사용하여 귀중한 재료를 식별, 분류 및 재활용하는 Ishitva Robotic Systems
+
+        - 액셀러레이터 코호트 멤버인 LimeLoop는 일회용 포장이 아닌 업사이클링된 재사용 가능한 포장을 만들어 폐기물을 덜 발생시키는 지속 가능한 배송을 촉진
+
+    - 재활용 가능한 콘텐츠의 구매자와 판매자에게 더 큰 신뢰를 심어주는 재활용자를 위한 디지털 추적 도구를 소개하는 인도네시아 스타트업인 Octopus
+
+        -  환경과 기존의 비공식 폐기물 수집가에게 영향을 미치는 지속 가능한 비즈니스를 창출
