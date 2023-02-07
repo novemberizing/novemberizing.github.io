@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2023/02/07 NewsX Daily Brief"
-subtitle: "2023/02/07 NewsX Daily Brief"
+title: "2023/02/07 News X Daily Brief"
+subtitle: "LaMDA 기반의 실험적인 대화형 AI 서비스인 'Bard'를 소개"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2022-01-08 19:07:00"
 categories: posts
