@@ -62,3 +62,29 @@ tags: ["NewsX Daily Brief"]
 <span class="badge badge-outline-secondary">Sustainability</span>
 <span class="badge badge-outline-secondary">Google</span>
 
+### __아시아 태평양 지역의 온라인 안전에 관한 3가지 소개__
+
+[Answering 3 top questions on online safety in Asia-Pacific / Scott Beaumont - President Asia-Pacific, Google](https://www.blog.google/around-the-globe/google-asia/answering-3-top-questions-on-online-safety-in-asia-pacific/)
+
+- 내 온라인 계정을 보호하는 가장 좋은 방법
+
+    - 비밀번호 사용할 때, 각 온라인 계정에 강력하고 고유한 암호를 사용하는 것이 중요함을 밝힘
+
+        - 2단계 인증(2SV)은 손상된 계정의 위험을 줄이는 또 다른 입증된 방법
+
+- 사기 및 피싱 시도
+
+    - 팬데믹 기간 동안 디지털 활동이 급격히 증가함에 따라 온라인 사기는 2020년에 사상 최고치를 기록
+
+        - 피싱 방지 기능
+
+            - AI로 구동되는 Gmail의 스팸 필터는 스팸
+            - 맬웨어 방지 솔루션인 내장형 Google Play 프로텍트
+
+- 온라인 안전
+
+    - 보안 도구를 사용하는 방법과 의심스러운 메시지 또는 잠재적인 위협에 대응하는 방법에 대한 교육이 필요
+
+<span class="badge badge-outline-secondary">Google In Asia</span>
+<span class="badge badge-outline-secondary">Safety & Security</span>
+<span class="badge badge-outline-secondary">Google</span>
