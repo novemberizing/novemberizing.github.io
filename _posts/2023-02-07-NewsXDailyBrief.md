@@ -27,7 +27,7 @@ tags: ["NewsX Daily Brief"]
 <span class="badge badge-outline-secondary">AI</span>
 <span class="badge badge-outline-secondary">Google</span>
 
-### __스타트업이 순환 경제를 지원하는 방법__
+### __순환 경제 스타트업 중 12개 팀을 선별하여 지원__
 
 > [How startups are supporting the circular economy / Mike Werner - Head of Circular Economy, Global Sustainability Team](https://www.blog.google/outreach-initiatives/entrepreneurs/circular-economy-accelerator/)
 
