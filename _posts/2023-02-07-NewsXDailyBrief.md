@@ -62,7 +62,7 @@ tags: ["NewsX Daily Brief"]
 <span class="badge badge-outline-secondary">Sustainability</span>
 <span class="badge badge-outline-secondary">Google</span>
 
-### __아시아 태평양 지역의 온라인 안전에 관한 3가지 소개__
+### __온라인 안전에 관한 3가지 소개__
 
 > [Answering 3 top questions on online safety in Asia-Pacific / Scott Beaumont - President Asia-Pacific, Google](https://www.blog.google/around-the-globe/google-asia/answering-3-top-questions-on-online-safety-in-asia-pacific/)
 
