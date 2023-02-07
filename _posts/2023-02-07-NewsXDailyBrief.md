@@ -57,3 +57,8 @@ tags: ["NewsX Daily Brief"]
     - 재활용 가능한 콘텐츠의 구매자와 판매자에게 더 큰 신뢰를 심어주는 재활용자를 위한 디지털 추적 도구를 소개하는 인도네시아 스타트업인 Octopus
 
         -  환경과 기존의 비공식 폐기물 수집가에게 영향을 미치는 지속 가능한 비즈니스를 창출
+
+<span class="badge badge-outline-secondary">Epreneurs</span>
+<span class="badge badge-outline-secondary">Sustainability</span>
+<span class="badge badge-outline-secondary">Google</span>
+
