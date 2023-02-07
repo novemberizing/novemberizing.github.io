@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2023/02/07 NewsX Daily Brief"
-subtitle: "The decentralized internet"
+subtitle: "2023/02/07 NewsX Daily Brief"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2022-01-08 19:07:00"
 categories: posts
