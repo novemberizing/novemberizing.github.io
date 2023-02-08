@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023/02/07 News X Daily Brief"
+title: "2023/02/08 News X Daily Brief"
 subtitle: "Bing 및 Edge 에 AI 코파일럿 및 채팅이 구동되는 기능을 출시"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2023-02-08 11:47:00"
