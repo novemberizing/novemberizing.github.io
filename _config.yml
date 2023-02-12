@@ -16,6 +16,7 @@ words_per_minute: 200
 markdown: kramdown
 mathjax: true
 highlighter: rouge
+google_analytics: 'G-10W4MY2Q8K'
 
 plugins:
   - jekyll-paginate
