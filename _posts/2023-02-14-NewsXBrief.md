@@ -10,7 +10,7 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅"]
 
 <div class="row mb-3">
     <div class="col-xl-5 col-lg-12">
-        <h4 class="mb-3">발렌타인데이의 10가지 검색 트렌드</h4>
+        <h4 class="mb-3">구글블로그 / 발렌타인데이의 10가지 검색 트렌드</h4>
         <p class="mb-3">
             <a href="https://blog.google/products/search/valentines-day-google-search-trends/">The most popular date night searches in every state</a>
         </p>
@@ -43,9 +43,9 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅"]
             <small>2023-02-14</small>
         </p>
         <p class="mb-3">
+            <span class="badge badge-outline-secondary">구글</span>
             <span class="badge badge-outline-secondary">발렌타인데이</span>
             <span class="badge badge-outline-secondary">마케팅</span>
-            <span class="badge badge-outline-secondary">구글</span>
             <span class="badge badge-outline-secondary">검색</span>
             <span class="badge badge-outline-secondary">트렌드</span>
         </p>
