@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2023/02/13 Twitter Review"
-subtitle: "깃허브, 직원 10% 해고하고 완전 원격근무로 전환"
+subtitle: "마이크로소프트 클라우드 플랫폼 - SK C&C, 인공지능기술교육협의회, 인포인과 협력"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2023-02-13 11:30:00"
 categories: posts
@@ -36,7 +36,7 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
             </div>
         </div>
     </div>
-    <div class="col-xl-7 col-lg-12">
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
         <h4 class="mb-3">
             디지털 트윈 전문기업 인포인, IT 환경 개선 및 글로벌 확장 지원 위해 한국마이크로소프트와 협력
         </h4>
@@ -74,7 +74,7 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
             </div>
         </div>
     </div>
-    <div class="col-xl-7 col-lg-12">
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
         <h4 class="mb-3">
             인공지능기술교육협의회, 한국마이크로소프트와 미래 IT 인재 양성을 위한 업무 협약 체결
         </h4>
@@ -109,7 +109,10 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
             </div>
         </div>
     </div>
-    <div class="col-xl-7 col-lg-12">
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
+        <h4 class="mb-3">
+            SK㈜ C&C, AI 뇌출혈 솔루션 기반 글로벌 헬스케어 시장 공동 진출 위해 한국마이크로소프트와 협력
+        </h4>
         <p class="mb-3">
             <span class="badge badge-outline-secondary">마이크로소프트</span>
             <span class="badge badge-outline-secondary">SK<sup>㈜</sup> C&C</span>
@@ -135,7 +138,7 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
             </div>
         </div>
     </div>
-    <div class="col-xl-7 col-lg-12 px-3">
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
         <h4 class="mb-3">
             발렌타이데이와 같이 특정 기념일의 검색 트렌드는 마케팅 계획을 수립에 도움
         </h4>
