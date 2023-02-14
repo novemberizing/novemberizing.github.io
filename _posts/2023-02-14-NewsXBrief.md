@@ -100,9 +100,6 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
         </div>
     </div>
     <div class="col-xl-7 col-lg-12 px-3 mt-3">
-        <h4 class="mb-3">
-            SK㈜ C&C, AI 뇌출혈 솔루션 기반 글로벌 헬스케어 시장 공동 진출 위해 한국마이크로소프트와 협력
-        </h4>
         <p class="mb-3">
             <span class="badge badge-outline-secondary">마이크로소프트</span>
             <span class="badge badge-outline-secondary">SK<sup>㈜</sup> C&C</span>
