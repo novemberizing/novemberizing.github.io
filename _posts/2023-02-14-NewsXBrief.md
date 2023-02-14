@@ -35,7 +35,7 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅"]
             </ul>
         </p>
     </div>
-    <div class="col-xl-7 col-lg-12 p-3">
+    <div class="col-xl-7 col-lg-12 px-3">
         <h4 class="mb-3">
             발렌타이데이와 같이 특정 기념일의 검색 트렌드는 마케팅 계획을 수립에 도움
         </h4>
