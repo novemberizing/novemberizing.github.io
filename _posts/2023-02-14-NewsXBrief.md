@@ -70,12 +70,6 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
         </div>
     </div>
     <div class="col-xl-7 col-lg-12 px-3 mt-3">
-        <h4 class="mb-3">
-            인공지능기술교육협의회, 한국마이크로소프트와 미래 IT 인재 양성을 위한 업무 협약 체결
-        </h4>
-        <p class="mb-3">
-            <small>2023-02-14</small>
-        </p>
         <p class="mb-3">
             <span class="badge badge-outline-secondary">마이크로소프트</span>
             <span class="badge badge-outline-secondary">인공지능기술교육협의회</span>
