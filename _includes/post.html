@@ -1,11 +1,11 @@
 <section class="resume-section">
     <div class="resume-section-content">
-        <p class="mb-3">
+        <p class="mb-2">
             <small>
                 {{ page.section }}
             </small>
         </p>
-        <h3 class="mb-2"><a href="{{ post.url }}" class="text-black text-decoration-none">{{ page.title }}</a></h3>
+        <h3 class="mb-5"><a href="{{ post.url }}" class="text-black text-decoration-none">{{ page.title }}</a></h3>
         <div class="mx-2 mb-5">
             {% for tag in page.tags %}
                 <span class="badge badge-outline-secondary">{{ tag }}</span>
