@@ -12,29 +12,38 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
     <div class="col-xl-5 col-lg-12">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">SK㈜ C&C, AI 뇌출혈 솔루션 기반 글로벌 헬스케어 시장 공동 진출 위해 한국마이크로소프트와 협력</h4>
+                <h4 class="card-title">
+                    인공지능기술교육협의회, 한국마이크로소프트와 미래 IT 인재 양성을 위한 업무 협약 체결
+                </h4>
                 <p class="card-text">
-                    SK<sup>㈜</sup> C&C(사장: 윤풍영)는 2023년 2월 2일, 한국마이크로소프트(대표: 이지은)와 ‘디지털 헬스케어 솔루션 글로벌 시장 진출과 산업 생태계 확산을 위한 업무 협약’을 체결
+                    선문대가 주관대학으로 운영하는 인공지능기술교육협의회는 2022년 10월 선문대, 강릉원주대, 건양대, 목포해양대, 우석대, 한림성심대가 참여해 구성된 협의체
                 </p>
                 <p class="card-text">
-                    AI 뇌출혈 영상 의료 솔루션, ‘메디컬 인사이트 플러스 뇌출혈(Medical Insight+ Brain Hemorrhage)’
+                    마이크로소프트 클라우드 서비스 및 플랫폼 애저(Azure)를 활용한 인공지능 교육과정을 개발함과 동시에 클라우드, 인공지능, 데이터 플랫폼 등의 마이크로소프트 국제공인자격증을 취득할 수 있는 프로그램을 운영할 예정
                 </p>
                 <p class="card-text">
-                    <small><a class="card-link" href="https://news.microsoft.com/ko-kr/2023/02/02/skcc-ai/">SK㈜ C&C, AI 뇌출혈 솔루션 기반 글로벌 헬스케어 시장 공동 진출 위해 한국마이크로소프트와 협력</a></small>
+                    우수 학생들에게는 Job Fair 등을 통해 우선적인 취업 연계와 현장실습 및 인턴십 기회를 제공할 계획
+                </p>
+                <p class="card-text">
+                    <small><a class="card-link" href="https://news.microsoft.com/ko-kr/2023/02/02/ai-skilling/">인공지능기술교육협의회, 한국마이크로소프트와 미래 IT 인재 양성을 위한 업무 협약 체결</a></small>
                 </p>
             </div>
         </div>
     </div>
     <div class="col-xl-7 col-lg-12">
         <h4 class="mb-3">
-            SK㈜ C&C, AI 뇌출혈 솔루션 기반 글로벌 헬스케어 시장 공동 진출 위해 한국마이크로소프트와 협력
+            인공지능기술교육협의회, 한국마이크로소프트와 미래 IT 인재 양성을 위한 업무 협약 체결
         </h4>
         <p class="mb-3">
+            <small>2023-02-14</small>
+        </p>
+        <p class="mb-3">
             <span class="badge badge-outline-secondary">마이크로소프트</span>
-            <span class="badge badge-outline-secondary">SK<sup>㈜</sup> C&C</span>
-            <span class="badge badge-outline-secondary">글로벌 헬스케어 시장</span>
-            <span class="badge badge-outline-secondary">AI 뇌출혈 영상 의료 솔루션</span>
-            <span class="badge badge-outline-secondary">메디컬 인사이트 플러스 뇌출혈</span>
+            <span class="badge badge-outline-secondary">인공지능기술교육협의회</span>
+            <span class="badge badge-outline-secondary">취업 연계</span>
+            <span class="badge badge-outline-secondary">현장실습</span>
+            <span class="badge badge-outline-secondary">인턴십 기회</span>
+            <span class="badge badge-outline-secondary">클라우드 서비스 및 플랫폼 애저(Azure)를 활용</span>
         </p>
     </div>
 </div>
