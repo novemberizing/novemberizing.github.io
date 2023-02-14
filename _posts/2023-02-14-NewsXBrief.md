@@ -5,8 +5,48 @@ subtitle: "깃허브, 직원 10% 해고하고 완전 원격근무로 전환"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2023-02-13 11:30:00"
 categories: posts
-tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크로소프트", "디지털 헬스케어 솔루션"]
+tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크로소프트", "디지털 헬스케어 솔루션", "디지털 트윈 전문기업 인포인", "마이크로소프트 애저(Azure)", "인공지능기술교육협의회"]
 ---
+
+<h5>마이크로소프트 클라우드 플랫폼 - SK C&C, 인공지능기술교육협의회, 인포인과 협력</h5>
+
+<div class="row mb-3">
+    <div class="col-xl-5 col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">
+                    디지털 트윈 전문기업 인포인, IT 환경 개선 및 글로벌 확장 지원 위해 한국마이크로소프트와 협력
+                </h4>
+                <p class="card-text">
+                    디지털 트윈 전문 기업 인포인(대표 정재원)이 디지털 트윈 IT 환경 개선과 글로벌 확장을 지원하기 위해 2023년 2월 1월 한국마이크로소프트(대표 이지은)와 MOU를 체결
+                </p>
+                <p class="card-text">
+                    업무협약을 통해 양 사는 마이크로소프트 클라우드 서비스 및 플랫폼 애저(Azure) 기반 디지털 트윈 솔루션 개발 및 고도화 관련 기술과 교육의 지원과 2023년 한국보건산업진흥원 ‘가상환경 기반 병원 운영 기술 개발 및 실증 연구’ 관련 디지털 병원 구현을 위한 기술 지원에 대해 상호 교류 및 협력할 계획
+                </p>
+                <p class="card-text">
+                    인포인은 이번 한국마이크로소프트와의 협력을 통해 안정되고, 확장성 있는 애저 클라우드 환경 속에서 각종 산업과 연계해 디지털 트윈 관련 사업의 확장을 도모하고, 메타플랫폼의 기술력과 인프라를 더욱 발전시킬 기회
+                </p>
+                <p class="card-text">
+                    <small><a class="card-link" href="https://news.microsoft.com/ko-kr/2023/02/08/infoin-mr/">디지털 트윈 전문기업 인포인, IT 환경 개선 및 글로벌 확장 지원 위해 한국마이크로소프트와 협력</a></small>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-7 col-lg-12">
+        <h4 class="mb-3">
+            디지털 트윈 전문기업 인포인, IT 환경 개선 및 글로벌 확장 지원 위해 한국마이크로소프트와 협력
+        </h4>
+        <p class="mb-3">
+            <small>2023-02-14</small>
+        </p>
+        <p class="mb-3">
+            <span class="badge badge-outline-secondary">마이크로소프트</span>
+            <span class="badge badge-outline-secondary">디지털 트윈 전문기업 인포인</span>
+            <span class="badge badge-outline-secondary">IT 환경 개선</span>
+            <span class="badge badge-outline-secondary">글로벌 확장 지원</span>
+        </p>
+    </div>
+</div>
 
 <div class="row mb-3">
     <div class="col-xl-5 col-lg-12">
