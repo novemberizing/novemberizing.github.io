@@ -11,16 +11,16 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅"]
 <div class="row mb-3">
     <div class="col-xl-5 col-lg-12">
         <div class="card">
-            <h4 class="mb-3">구글블로그 / 발렌타인데이의 10가지 검색 트렌드</h4>
-            <p class="mb-3">
+            <h4 class="mb-3 card-title">구글블로그 / 발렌타인데이의 10가지 검색 트렌드</h4>
+            <p class="mb-3 card-body">
                 <a href="https://blog.google/products/search/valentines-day-google-search-trends/">The most popular date night searches in every state</a>
             </p>
-            <p class="mb-3">
+            <p class="mb-3 card-body">
                 <ul>
                     <li>올해 '데이트 나이트 아이디어'에 대한 검색이 사상 최고치를 기록</li>
                 </ul>
             </p>
-            <p class="mb-3">
+            <p class="mb-3 card-body">
                 <ul>
                     <li>내 호감이 나를 좋아해?</li>
                     <li>내 호감이 나를 좋아하게 만드는 방법?</li>
