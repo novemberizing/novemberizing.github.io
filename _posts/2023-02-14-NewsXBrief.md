@@ -16,9 +16,7 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅"]
                 <a href="https://blog.google/products/search/valentines-day-google-search-trends/">The most popular date night searches in every state</a>
             </p>
             <p class="mb-3 card-body">
-                <ul>
-                    <li>올해 '데이트 나이트 아이디어'에 대한 검색이 사상 최고치를 기록</li>
-                </ul>
+                <b>올해 '데이트 나이트 아이디어'에 대한 검색이 사상 최고치를 기록</b>
             </p>
             <p class="mb-3 card-body">
                 <ul>
