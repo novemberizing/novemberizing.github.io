@@ -38,12 +38,6 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
         </div>
     </div>
     <div class="col-xl-7 col-lg-12 px-3 mt-3">
-        <h4 class="mb-3">
-            디지털 트윈 전문기업 인포인, IT 환경 개선 및 글로벌 확장 지원 위해 한국마이크로소프트와 협력
-        </h4>
-        <p class="mb-3">
-            <small>2023-02-14</small>
-        </p>
         <p class="mb-3">
             <span class="badge badge-outline-secondary">마이크로소프트</span>
             <span class="badge badge-outline-secondary">디지털 트윈 전문기업 인포인</span>
