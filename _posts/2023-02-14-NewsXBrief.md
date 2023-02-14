@@ -5,7 +5,7 @@ subtitle: "마이크로소프트 클라우드 플랫폼 - SK C&C, 인공지능�
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2023-02-13 11:30:00"
 categories: posts
-tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크로소프트", "디지털 헬스케어 솔루션", "디지털 트윈 전문기업 인포인", "마이크로소프트 애저(Azure)", "인공지능기술교육협의회"]
+tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크로소프트", "디지털 헬스케어 솔루션", "디지털 트윈 전문기업 인포인", "마이크로소프트 애저(Azure)", "인공지능기술교육협의회", "테슬라", "기가베를린", "기계를 만드는 기계"]
 ---
 
 <div class="row">
@@ -168,6 +168,13 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
             Tesla, Giga Berlin의 새로운 모습: '기계를 만드는 기계'
         </h4>
         <p class="mb-3">
+            <span class="badge badge-outline-secondary">테슬라</span>
+            <span class="badge badge-outline-secondary">기가베를린</span>
+            <span class="badge badge-outline-secondary">기계를 만드는 기계</span>
+            <span class="badge badge-outline-secondary">대량 생산</span>
+            <span class="badge badge-outline-secondary">자동화</span>
+        </p>
+        <p class="mb-3">
             Tesla Giga Berlin은 현재 1년이 조금 안 되는 동안 Model Y를 생산하여 연간 250,000대 이상의 차량을 생산
         </p>
         <p class="mb-3">
@@ -187,7 +194,7 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
         </p>
         <p class="mb-3">
             <small>
-                대량 생산과 자동화, 그리고 인간의 역할이 앞으로의 사회가 풀어나가야 하는 숙제
+                대량 생산과 자동화
             </small>
         </p>
     </div>
