@@ -5,7 +5,7 @@ subtitle: "깃허브, 직원 10% 해고하고 완전 원격근무로 전환"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2023-02-13 11:30:00"
 categories: posts
-tags: ["Chat GPT" , "오페라", "웹브라우져", "로톡", "디지털 성범죄 피해자 법률상담 지원", "깃허브", "마이크로소프트", "해고", "서비스이동", "애플 차세대 금융시스템"]
+tags: ["발렌타인데이", "검색트렌드", "마케팅"]
 ---
 
 <div class="row mb-3">
