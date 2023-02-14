@@ -19,6 +19,9 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅"]
                 <p class="card-text">
                     AI 뇌출혈 영상 의료 솔루션, ‘메디컬 인사이트 플러스 뇌출혈(Medical Insight+ Brain Hemorrhage)’
                 </p>
+                <p class="card-text">
+                    <small><a class="card-link" href="https://news.microsoft.com/ko-kr/2023/02/02/skcc-ai/">SK㈜ C&C, AI 뇌출혈 솔루션 기반 글로벌 헬스케어 시장 공동 진출 위해 한국마이크로소프트와 협력</a></small>
+                </p>
             </div>
         </div>
     </div>
