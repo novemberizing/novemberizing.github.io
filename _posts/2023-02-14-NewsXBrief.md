@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2023/02/13 Twitter Review"
+title: "2023/02/14 Daily Brief"
 subtitle: "마이크로소프트 클라우드 플랫폼 - SK C&C, 인공지능기술교육협의회, 인포인과 협력"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2023-02-13 11:30:00"
