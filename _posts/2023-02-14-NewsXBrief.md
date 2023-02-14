@@ -11,6 +11,7 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
 <div class="row">
     <div class="col mb-5">
         <h5>마이크로소프트 클라우드 플랫폼 - SK C&C, 인공지능기술교육협의회, 인포인과 협력</h5>
+        <h5>기계를 만드는 기계 관점의 테슬라 기가베를린</h5>
     </div>
 </div>
 
@@ -160,157 +161,29 @@ tags: ["발렌타인데이", "검색트렌드", "마케팅", "SK C&C + 마이크
 
 <div class="row mb-3">
     <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">안랩 &#39;꾸준한 우상향&#39; 실적 이끈 &#39;안랩표 클라우드&#39;는 무엇? <a href="https://t.co/TRipaitW0I">https://t.co/TRipaitW0I</a></p>&mdash; 블로터 (@bloter_news) <a href="https://twitter.com/bloter_news/status/1625320429392134144?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-        <p>클라우드는 IT 기반 인프라</p>
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">ICT 수출 7개월째 감소…반도체·디스플레이 부진 <a href="https://t.co/Q9lUHvx5Bo">https://t.co/Q9lUHvx5Bo</a></p>&mdash; 연합뉴스 (@yonhaptweet) <a href="https://twitter.com/yonhaptweet/status/1625321069879136258?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">더 크고, 더 빠르고, 더 멀리: 올해 새로운 로켓들이 우주로 발사 예정 <a href="https://t.co/HTiQIN6xiF">https://t.co/HTiQIN6xiF</a> <br>- SpaceX Starship : 50미터짜리 우주선 포함 394피트(120미터) 높이의 슈퍼헤비로켓. 로켓 크기만으로도 새턴V보다 큼. 달과 화성을 위해 설계 <br>- Vulcan Centaur : United Launch Alliance에서...</p>&mdash; GeekNews (@GeekNewsBot) <a href="https://twitter.com/GeekNewsBot/status/1625314899424583680?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">“빅테크, 동남아 클라우드 경쟁 심화로 중국 IT기업에 압박받아” <a href="https://t.co/jiNi0ZkhQy">https://t.co/jiNi0ZkhQy</a></p>&mdash; 블로터 (@bloter_news) <a href="https://twitter.com/bloter_news/status/1625277647017353217?ref_src=twsrc%5Etfw">February 13, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">OpenAI CEO Sam Altman said ChatGPT is &#39;cool,&#39; but it&#39;s a &#39;horrible product&#39; <a href="https://t.co/ZXmXUvERhN">https://t.co/ZXmXUvERhN</a></p>&mdash; Insider Business (@BusinessInsider) <a href="https://twitter.com/BusinessInsider/status/1625263517866549253?ref_src=twsrc%5Etfw">February 13, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">딜로이트 안진, 자금사고 징후 진단·탐지 솔루션 ‘라이트하우스’ 출시 <a href="https://t.co/NmRjj70lFw">https://t.co/NmRjj70lFw</a></p>&mdash; CIO_Korea (@CIOKR) <a href="https://twitter.com/CIOKR/status/1625311030174703616?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tesla gives fresh look inside Giga Berlin: &#39;The Machine that Builds the Machine&#39; <a href="https://t.co/xA2DleuwzG">https://t.co/xA2DleuwzG</a> by <a href="https://twitter.com/KlenderJoey?ref_src=twsrc%5Etfw">@KlenderJoey</a></p>&mdash; TESLARATI (@Teslarati) <a href="https://twitter.com/Teslarati/status/1625252563162394660?ref_src=twsrc%5Etfw">February 13, 2023</a></blockquote>
     </div>
     <div class="col-xl-7 col-lg-12 px-3 mt-3">
+        <h4 class="mb-3">
+            Tesla, Giga Berlin의 새로운 모습: '기계를 만드는 기계'
+        </h4>
+        <p class="mb-3">
+            Tesla Giga Berlin은 현재 1년이 조금 안 되는 동안 Model Y를 생산하여 연간 250,000대 이상의 차량을 생산
+        </p>
+        <p class="mb-3">
+            IDRA Giga Press를 활용하여 제조 효율을 높일 뿐만 아니라 차량 품질과 안전성도 향상
+        </p>
+        <p class="mb-3">
+            분당 최대 16개의 부품으로 작동하는 프레스 라인에서 총 7,300톤의 힘으로 13개의 다른 차체 부품이 스탬핑
+        </p>
+        <p class="mb-3">
+            Tesla는 다른 공장에서 페인트 품질 문제로 어려움을 겪었지만 Giga Berlin은 일련의 고품질 페인트와 더 나은 공정을 활용하여 외관을 개선
+        </p>
+        <p class="mb-3">
+            자동화와 인간 모두에 의존하는 Tesla의 Giga Berlin 일반 조립 라인
+        </p>
+        <p class="mb-3">
+            CEO Elon Musk는 과거에 생산 작업을 완료하기 위해 자동화에 너무 많이 의존했으며 인간은 "과소 평가"되었다고 말함
+        </p>
     </div>
 </div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">3D익스피리언스웍스·솔리드웍스, 클라우드로 합친다 <a href="https://t.co/DfexDCEmtr">https://t.co/DfexDCEmtr</a> <a href="https://t.co/NDlvsObqxa">pic.twitter.com/NDlvsObqxa</a></p>&mdash; 지디넷코리아 (@zdnetkorea) <a href="https://twitter.com/zdnetkorea/status/1625285012991143937?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">메타 최고사업책임자 회사 떠난다 <a href="https://t.co/WoIaGFPHq2">https://t.co/WoIaGFPHq2</a> <a href="https://t.co/Rn2E6BGUcP">pic.twitter.com/Rn2E6BGUcP</a></p>&mdash; 지디넷코리아 (@zdnetkorea) <a href="https://twitter.com/zdnetkorea/status/1625285003222581248?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">네오위즈, 2022년 연매출 2946억...전년比 13%↑ <a href="https://t.co/7RusokWw7W">https://t.co/7RusokWw7W</a> <a href="https://t.co/O1Huv4oxmx">pic.twitter.com/O1Huv4oxmx</a></p>&mdash; 지디넷코리아 (@zdnetkorea) <a href="https://twitter.com/zdnetkorea/status/1625299324031897602?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">갤럭시S23 사전개통 시작…울트라·블랙 컬러 인기 많아 <a href="https://t.co/J5PcvgXVth">https://t.co/J5PcvgXVth</a> <a href="https://t.co/fTPHygr6F9">pic.twitter.com/fTPHygr6F9</a></p>&mdash; 지디넷코리아 (@zdnetkorea) <a href="https://twitter.com/zdnetkorea/status/1625299334651858944?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">메타 최고사업책임자 회사 떠난다 <a href="https://t.co/WoIaGFPHq2">https://t.co/WoIaGFPHq2</a> <a href="https://t.co/Rn2E6BGUcP">pic.twitter.com/Rn2E6BGUcP</a></p>&mdash; 지디넷코리아 (@zdnetkorea) <a href="https://twitter.com/zdnetkorea/status/1625285003222581248?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">리뷰 | ‘챗GPT 기반’ MS 빙, 기존 검색엔진 대체 가능성 보인다 <a href="https://t.co/kBlPzYSmHI">https://t.co/kBlPzYSmHI</a></p>&mdash; CIO_Korea (@CIOKR) <a href="https://twitter.com/CIOKR/status/1625311023870664712?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">국내 스타트업, ‘AI 챗봇 전용 SoC’ 아톰 출시··· AI용 하드웨어도 경쟁 본격화 <a href="https://t.co/K0qCKSJHKB">https://t.co/K0qCKSJHKB</a></p>&mdash; CIO_Korea (@CIOKR) <a href="https://twitter.com/CIOKR/status/1625311036667559936?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">블로그ㅣ‘서비스형 애플(AaaS)’이 오고 있다  <a href="https://t.co/BreMnh9TBs">https://t.co/BreMnh9TBs</a></p>&mdash; CIO_Korea (@CIOKR) <a href="https://twitter.com/CIOKR/status/1625311032250884096?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">네이버클라우드, 핀테크 DX 패키지 출시 및 온·오프 프로모션 진행 <a href="https://t.co/B2dookhMLv">https://t.co/B2dookhMLv</a></p>&mdash; CIO_Korea (@CIOKR) <a href="https://twitter.com/CIOKR/status/1625311034486493185?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">&quot;디스플레이 세상은 넓고 할 일은 많다&quot; <a href="https://t.co/X2H5Jx3WaA">https://t.co/X2H5Jx3WaA</a> <a href="https://t.co/c2Ehf0JEVN">pic.twitter.com/c2Ehf0JEVN</a></p>&mdash; 지디넷코리아 (@zdnetkorea) <a href="https://twitter.com/zdnetkorea/status/1625306608984264704?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">AI 얻은 &#39;빙 검색&#39; 인기…이틀만에 100만명 대기 <a href="https://t.co/iJtnFUHF6v">https://t.co/iJtnFUHF6v</a> <a href="https://t.co/1mnVhPmIpN">pic.twitter.com/1mnVhPmIpN</a></p>&mdash; 지디넷코리아 (@zdnetkorea) <a href="https://twitter.com/zdnetkorea/status/1625292269095124992?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">옴디아, “LCD TV 제조업체 구매 주문량 올해 2분기부터 증가 추세” <a href="https://t.co/QPRbAvD7Yg">https://t.co/QPRbAvD7Yg</a></p>&mdash; CIO_Korea (@CIOKR) <a href="https://twitter.com/CIOKR/status/1625311040845099008?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">존 헤네시 알파벳 회장 &quot;바드 제품화, 갈 길 멀다&quot; <a href="https://t.co/2aSc8LIg4E">https://t.co/2aSc8LIg4E</a></p>&mdash; 블로터 (@bloter_news) <a href="https://twitter.com/bloter_news/status/1625297530975293440?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">펄어비스, 2022년 연매출 3860억...해외 매출비중 81% <a href="https://t.co/lVWQLojWft">https://t.co/lVWQLojWft</a> <a href="https://t.co/Opf5xSW6Iw">pic.twitter.com/Opf5xSW6Iw</a></p>&mdash; 지디넷코리아 (@zdnetkorea) <a href="https://twitter.com/zdnetkorea/status/1625284983794577408?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-<div class="row mb-3">
-    <div class="col-xl-5 col-lg-12">
-        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">한국IDC, “2022년 국내 PC 578만대 출하…전년 대비 4.7% 감소” <a href="https://t.co/z2y1nDOfxJ">https://t.co/z2y1nDOfxJ</a></p>&mdash; CIO_Korea (@CIOKR) <a href="https://twitter.com/CIOKR/status/1625311026710298624?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
-    </div>
-    <div class="col-xl-7 col-lg-12 px-3 mt-3">
-    </div>
-</div>
-
