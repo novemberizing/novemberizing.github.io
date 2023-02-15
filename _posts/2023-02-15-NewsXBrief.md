@@ -11,7 +11,7 @@ tags: ["AWS", "현대모비스", "자율주행", "미래항공모빌리티", "�
 
 <h4 class="mb-3">1. 현대모비스, 선제적 미래 투자</h4>
 <h4 class="mb-3">2. 마이크로소프트 - 빙, 구글 - 바드 / AI 에 생성된 결과 오류</h4>
-<h4 class="mb-3">2. 깃헙 - Github Copilot For Business 출시</h4>
+<h4 class="mb-3">3. 깃헙 - Github Copilot For Business 출시</h4>
 
 <div class="row mb-3">
     <div class="col-xl-5 col-lg-12">
