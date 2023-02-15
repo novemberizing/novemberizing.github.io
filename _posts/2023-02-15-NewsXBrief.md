@@ -93,3 +93,18 @@ tags: ["AWS", "현대모비스", "자율주행", "미래항공모빌리티", "�
         </p>
     </div>
 </div>
+
+
+<div class="row mb-3">
+    <div class="col-xl-5 col-lg-12">
+        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The combination of connected vehicles and the 5G network could decrease fuel consumption and increase road safety through convoys of connected cars.<a href="https://twitter.com/hashtag/Infographic?src=hash&amp;ref_src=twsrc%5Etfw">#Infographic</a> <a href="https://twitter.com/antgrasso?ref_src=twsrc%5Etfw">@antgrasso</a> <a href="https://twitter.com/hashtag/5G?src=hash&amp;ref_src=twsrc%5Etfw">#5G</a> <a href="https://twitter.com/hashtag/ConnectedCars?src=hash&amp;ref_src=twsrc%5Etfw">#ConnectedCars</a> <a href="https://t.co/rz9qU9mznu">pic.twitter.com/rz9qU9mznu</a></p>&mdash; Digital News Stream (@DigitalNStream) <a href="https://twitter.com/DigitalNStream/status/1625475030724255744?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
+    </div>
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
+        <p class="mb-3">
+            <span class="badge badge-outline-secondary">5G</span>
+            <span class="badge badge-outline-secondary">SMART CAR</span>
+        </p>
+    </div>
+</div>
+
+
