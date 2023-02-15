@@ -6,10 +6,11 @@ subtitle: "현대모비스, 선제적 미래 투자"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2023-02-14 11:30:00"
 categories: posts
-tags: ["AWS", "현대모비스", "자율주행", "미래항공모빌리티", "로보틱스"]
+tags: ["AWS", "현대모비스", "자율주행", "미래항공모빌리티", "로보틱스", "Generative AI", "검색엔진"]
 ---
 
 <h4 class="mb-3">1. 현대모비스, 선제적 미래 투자</h4>
+<h4 class="mb-3">2. 마이크로소프트 - 빙, 구글 - 바드 / AI 에 생성된 결과 오류</h4>
 
 <div class="row mb-3">
     <div class="col-xl-5 col-lg-12">
@@ -107,4 +108,77 @@ tags: ["AWS", "현대모비스", "자율주행", "미래항공모빌리티", "�
     </div>
 </div>
 
+<div class="row mb-3">
+    <div class="col-xl-5 col-lg-12">
+        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bing&#39;s blunders and Google&#39;s gaffs — living proof that artificial intelligence is still full of factual errors. Do these issues make you less likely to use AI search engines? <a href="https://t.co/Iy6L5iRFCt">https://t.co/Iy6L5iRFCt</a></p>&mdash; Windows Central (@windowscentral) <a href="https://twitter.com/windowscentral/status/1625482994155679744?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
+    </div>
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
+        <p class="mb-3">
+            <span class="badge badge-outline-secondary">AI</span>
+            <span class="badge badge-outline-secondary">MICROSOFT / BING</span>
+            <span class="badge badge-outline-secondary">GOOGLE / BARD</span>
+            <span class="badge badge-outline-secondary">FACTUAL ERROR</span>
+        </p>
+        <p class="mb-3">
+            <a href="https://www.windowscentral.com/software-apps/bing-ais-horrendous-errors-prove-we-still-need-to-tread-carefully">Bing AI's horrendous errors prove we still need to tread carefully</a> | <a href="https://www.windowscentral.com/author/sean-endicott">Sean Endicott</a>
+        </p>
+        <p class="mb-3">
+            Microsoft는 최근 ChatGPT로 구동되는 새로운 Bing을 발표 이후 검색 엔진은 부정확한 정보로 많은 응답을 생성
+            (Bing은 민족 비방 목록을 공유, Bing이 시연 중에 부정확한 것은 재무 데이터, 진공 청소기에 코드가 있다고 잘못 설명)
+        </p>
+        <p class="mb-3">
+            Microsoft는 The Verge에 대한 성명서에서 위에 표시된 상황에 대해 논의
+        </p>
+        <p class="mb-3">
+            “AI 원칙에 따라 유해하거나 차별적인 콘텐츠의 홍보를 방지하기 위해 가드레일을 마련했습니다. 현재 출시 초기 단계에서 계속 학습하면서 추가 개선 사항을 검토하고 있습니다. 우리는 시간이 지남에 따라 이 경험의 품질을 개선하고 모든 사람에게 유용하고 포괄적인 도구가 되도록 최선을 다하고 있습니다.”
+        </p>
+        <p class="mb-3">
+            구글의 바드 AI는 이 도구가 광고에 사실적인 오류를 포함하고 있다는 사실이 밝혀져 비판으로 알파벳 주가는 7% 하락
+        </p>
+    </div>
+</div>
 
+<div class="row mb-3">
+    <div class="col-xl-5 col-lg-12">
+        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How could AI transform healthcare? Although AI has been implemented by healthcare providers worldwide, there is still some way to go before its true potential is realized. Link <a href="https://t.co/vJSuzJgWFN">https://t.co/vJSuzJgWFN</a> rt <a href="https://twitter.com/antgrasso?ref_src=twsrc%5Etfw">@antgrasso</a> <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> <a href="https://twitter.com/hashtag/healthcare?src=hash&amp;ref_src=twsrc%5Etfw">#healthcare</a> <a href="https://twitter.com/hashtag/HealthTech?src=hash&amp;ref_src=twsrc%5Etfw">#HealthTech</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://t.co/5hkydHZcKK">pic.twitter.com/5hkydHZcKK</a></p>&mdash; CEO Tech Awareness (@CeoAwareness) <a href="https://twitter.com/CeoAwareness/status/1625621239363522563?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
+    </div>
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
+        <p class="mb-3">
+            <span class="badge badge-outline-secondary">AI</span>
+            <span class="badge badge-outline-secondary">healthcare</span>
+        </p>
+    </div>
+</div>
+
+
+<div class="row mb-3">
+    <div class="col-xl-5 col-lg-12">
+        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GitHub Copilot for Business is now available, as we bring the world’s first at-scale AI developer tool to any organization. <a href="https://t.co/Op8Ez3A2qR">https://t.co/Op8Ez3A2qR</a></p>&mdash; Satya Nadella (@satyanadella) <a href="https://twitter.com/satyanadella/status/1625635092344479744?ref_src=twsrc%5Etfw">February 14, 2023</a></blockquote>
+    </div>
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
+        <p class="mb-3">
+            <span class="badge badge-outline-secondary">AI developer tool</span>
+            <span class="badge badge-outline-secondary">healthcare</span>
+            <span class="badge badge-outline-secondary">GitHub Copilot</span>
+        </p>
+        <p class="mb-3">
+            <a href="https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/">GitHub Copilot for Business is now available</a>
+
+            비즈니스용 GitHub Copilot을 사용 가능
+
+            2021년 OpenAI와의 파트너십을 통해 처음 선보인 GitHub Copilot은 세계 최초의 대규모 AI 개발자 도구
+            
+            간단한 확장 기능으로 편집기 내에 있는 GitHub Copilot은 개발자 코드에서 컨텍스트를 가져와 새로운 라인, 전체 기능, 테스트 및 복잡한 알고리즘을 제안
+
+            출시 이후 GitHub Copilot은 백만 명이 넘는 사람들의 개발자 생산성을 변화시켜 개발자가 최대 55% 더 빠르게 코딩할 수 있도록 지원
+
+            - 보다 강력한 AI 모델: 새로운 모델링 알고리즘은 코드 제안의 품질을 향상
+            - AI 기반 보안 취약성 필터링: GitHub Copilot은 하드코딩된 자격 증명, SQL 주입 및 경로 주입과 같은 문제를 대상으로 하여 일반적인 안전하지 않은 코드 제안을 자동으로 차단
+            - VPN 프록시 지원: GitHub Copilot은 자체 서명된 인증서를 포함하여 VPN과 작동하므로 개발자가 모든 작업 환경에서 사용
+            - 소스 코드에 GitHub 플랫폼을 사용하지 않더라도 모든 회사에서 Copilot for Business 라이선스를 온라인으로 신속하게 구매하고 시트를 쉽게 할당
+
+            - 2022년 6월에 우리는 GitHub Copilot이 이미 개발자 코드의 27%를 생성하고 있다고 보고
+            - 모든 프로그래밍 언어에서 평균 46%의 코드가 GitHub Copilot을 사용하여 작성되고 있으며 Java를 사용하는 개발자 중 61%가 이러한 현상이 점점 더 많이 발생
+        </p>
+    </div>
+</div>
