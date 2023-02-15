@@ -157,9 +157,8 @@ tags: ["AWS", "현대모비스", "자율주행", "미래항공모빌리티", "�
     </div>
     <div class="col-xl-7 col-lg-12 px-3 mt-3">
         <p class="mb-3">
-            <span class="badge badge-outline-secondary">AI developer tool</span>
-            <span class="badge badge-outline-secondary">healthcare</span>
-            <span class="badge badge-outline-secondary">GitHub Copilot</span>
+            <span class="badge badge-outline-secondary">Github Copilot for Business</span>
+            <span class="badge badge-outline-secondary">Generative AI</span>
         </p>
         <p class="mb-3">
             <a href="https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/">GitHub Copilot for Business is now available</a>
@@ -179,6 +178,19 @@ tags: ["AWS", "현대모비스", "자율주행", "미래항공모빌리티", "�
 
             - 2022년 6월에 우리는 GitHub Copilot이 이미 개발자 코드의 27%를 생성하고 있다고 보고
             - 모든 프로그래밍 언어에서 평균 46%의 코드가 GitHub Copilot을 사용하여 작성되고 있으며 Java를 사용하는 개발자 중 61%가 이러한 현상이 점점 더 많이 발생
+        </p>
+    </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-xl-5 col-lg-12">
+        <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">트윌리오, 5개월 만에 또 정리해고··· “약 17% 추가 감축”  <a href="https://t.co/Tx3JwIBGVH">https://t.co/Tx3JwIBGVH</a></p>&mdash; CIO_Korea (@CIOKR) <a href="https://twitter.com/CIOKR/status/1625673392471920641?ref_src=twsrc%5Etfw">February 15, 2023</a></blockquote>
+    </div>
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
+        <p class="mb-3">
+            <span class="badge badge-outline-secondary">해고</span>
+        </p>
+        <p class="mb-3">
         </p>
     </div>
 </div>
