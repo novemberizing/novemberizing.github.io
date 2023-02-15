@@ -38,15 +38,8 @@ tags: ["AWS"]
             <span class="badge badge-outline-secondary">아마존 웹 서비스</span>
             <span class="badge badge-outline-secondary">32가지 새로운 기능 발표</span>
         </p>
+        <p class="mb-3">
+            <a href="https://aws.amazon.com/ko/blogs/korea/week-in-review-february-13-2023/">AWS 주간 소식 모음 – 2023년 2월 둘째주</a> | <a href="https://aws.amazon.com/ko/blogs/korea/author/stormacq/">Sébastien Stormacq</a>
+        </p>
     </div>
 </div>
-
-https://aws.amazon.com/ko/blogs/korea/week-in-review-february-13-2023/
-
-AWS에서는 일주일 전 지난 주 Review 블로그 게시물을 게시한 이후 32가지 기능을 발표했습니다.
-
-
-
-
-
-
