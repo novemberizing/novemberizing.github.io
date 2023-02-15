@@ -161,23 +161,17 @@ tags: ["AWS", "현대모비스", "자율주행", "미래항공모빌리티", "�
             <span class="badge badge-outline-secondary">Generative AI</span>
         </p>
         <p class="mb-3">
-            <a href="https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/">GitHub Copilot for Business is now available</a>
-
-            비즈니스용 GitHub Copilot을 사용 가능
-
-            2021년 OpenAI와의 파트너십을 통해 처음 선보인 GitHub Copilot은 세계 최초의 대규모 AI 개발자 도구
-            
-            간단한 확장 기능으로 편집기 내에 있는 GitHub Copilot은 개발자 코드에서 컨텍스트를 가져와 새로운 라인, 전체 기능, 테스트 및 복잡한 알고리즘을 제안
-
-            출시 이후 GitHub Copilot은 백만 명이 넘는 사람들의 개발자 생산성을 변화시켜 개발자가 최대 55% 더 빠르게 코딩할 수 있도록 지원
-
-            - 보다 강력한 AI 모델: 새로운 모델링 알고리즘은 코드 제안의 품질을 향상
-            - AI 기반 보안 취약성 필터링: GitHub Copilot은 하드코딩된 자격 증명, SQL 주입 및 경로 주입과 같은 문제를 대상으로 하여 일반적인 안전하지 않은 코드 제안을 자동으로 차단
-            - VPN 프록시 지원: GitHub Copilot은 자체 서명된 인증서를 포함하여 VPN과 작동하므로 개발자가 모든 작업 환경에서 사용
-            - 소스 코드에 GitHub 플랫폼을 사용하지 않더라도 모든 회사에서 Copilot for Business 라이선스를 온라인으로 신속하게 구매하고 시트를 쉽게 할당
-
-            - 2022년 6월에 우리는 GitHub Copilot이 이미 개발자 코드의 27%를 생성하고 있다고 보고
-            - 모든 프로그래밍 언어에서 평균 46%의 코드가 GitHub Copilot을 사용하여 작성되고 있으며 Java를 사용하는 개발자 중 61%가 이러한 현상이 점점 더 많이 발생
+            <a href="https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/">GitHub Copilot for Business is now available</a><br />
+            비즈니스용 GitHub Copilot을 사용 가능<br />
+            2021년 OpenAI와의 파트너십을 통해 처음 선보인 GitHub Copilot은 세계 최초의 대규모 AI 개발자 도구<br />
+            간단한 확장 기능으로 편집기 내에 있는 GitHub Copilot은 개발자 코드에서 컨텍스트를 가져와 새로운 라인, 전체 기능, 테스트 및 복잡한 알고리즘을 제안<br />
+            출시 이후 GitHub Copilot은 백만 명이 넘는 사람들의 개발자 생산성을 변화시켜 개발자가 최대 55% 더 빠르게 코딩할 수 있도록 지원<br />
+            - 보다 강력한 AI 모델: 새로운 모델링 알고리즘은 코드 제안의 품질을 향상<br />
+            - AI 기반 보안 취약성 필터링: GitHub Copilot은 하드코딩된 자격 증명, SQL 주입 및 경로 주입과 같은 문제를 대상으로 하여 일반적인 안전하지 않은 코드 제안을 자동으로 차단<br />
+            - VPN 프록시 지원: GitHub Copilot은 자체 서명된 인증서를 포함하여 VPN과 작동하므로 개발자가 모든 작업 환경에서 사용<br />
+            - 소스 코드에 GitHub 플랫폼을 사용하지 않더라도 모든 회사에서 Copilot for Business 라이선스를 온라인으로 신속하게 구매하고 시트를 쉽게 할당<br />
+            - 2022년 6월에 우리는 GitHub Copilot이 이미 개발자 코드의 27%를 생성하고 있다고 보고<br />
+            - 모든 프로그래밍 언어에서 평균 46%의 코드가 GitHub Copilot을 사용하여 작성되고 있으며 Java를 사용하는 개발자 중 61%가 이러한 현상이 점점 더 많이 발생<br />
         </p>
     </div>
 </div>
