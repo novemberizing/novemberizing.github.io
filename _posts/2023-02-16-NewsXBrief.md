@@ -1,26 +1,39 @@
 ---
 layout: post
 section: "2023년 2월 14일"
-title: ""
-subtitle: ""
+title: "식약처, 15일 불면증 치료제 앱 '솜즈' 국내 품목허가"
+subtitle: "식약처, 15일 불면증 치료제 앱 '솜즈' 국내 품목허가"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
 date: "2023-02-14 11:30:00"
 categories: posts
-tags: ["네이버", "구글"]
+tags: ["네이버", "구글", "디지털 헬스 케어"]
 ---
+
+<h4 class="mb-3">
+    1. 식약처, 15일 불면증 치료제 앱 '솜즈' 국내 품목허가
+</h4>
 
 <div class="row mb-3">
     <div class="col-xl-5 col-lg-12">
         <div class="card">
             <div class="card-body">
                 <h4 class="card-title">
-                    Google Pay - Virtual Card
+                    식약처, 15일 불면증 치료제 앱 '솜즈' 국내 품목허가
                 </h4>
                 <p class="card-text">
-                    Google Pay는 Google에서 개발한 모바일 결제 서비스<br />
-                    <br />
-                    모바일 기기에서 인앱, 온라인 및 비접촉 직접 구매를 지원<br />
-                    사용자가 Android 휴대전화, 태블릿 또는 시계로 결제할 수 있음<br />
+                    <ul>
+                        <li>불면증 심각도 평가척도에서 통계적으로 유의미한 개선</li>
+                        <li>국내 1호 디지털치료기기 자리는 불면증 치료제 앱 에임메드 솜즈</li>
+                        <li>불면증 환자를 치료하는 방법 중 하나인 불면증 인지행동 치료법을 ‘모바일 앱’으로 구현한 소프트웨어 의료기기</li>
+                        <li>임상 결과, 솜즈 사용 전과 사용 후 ‘불면증 심각도 평가척도’가 통계적으로 유의미한 개선이 확인</li>
+                        <li>식약처는 “정신건강의학과, 가정의학과 등 전문가로 구성된 의료기기위원회를 개최해 안전성과 유효성이 확보됐음을 자문받았으며 과학적이고 철저한 심사를 거쳐 허가했다”고 덧붙임</li>
+                        <li>게임을 기반으로 ADHD 진단을 받은 소아 환자의 주의력 결핍 개선</li>
+                        <li>가상현실 기술을 활용해 우울장애 환자의 우울증 개선 치료</li>
+                        <li>생활 습관 변화를 유도해 알코올 사용 장애를 개선</li>
+                    </ul>
+                </p>
+                <p class="card-text">
+                    <b></b>
                 </p>
             </div>
         </div>
@@ -29,13 +42,54 @@ tags: ["네이버", "구글"]
         <p class="mb-3">
             <span class="badge badge-outline-secondary">구글</span>
             <span class="badge badge-outline-secondary">가상 카드</span>
+            <span class="badge badge-outline-secondary">프라이버시와 광고</span>
         </p>
         <p class="mb-3">
-            <a href="https://blog.google/products/shopping/shop-and-pay-with-confidence/">5 tips to confidently shop and pay online with Google</a>
+            <a href="http://www.monews.co.kr/news/articleView.html?idxno=320002">에임메드 ‘솜즈’, 국내 1호 디지털 치료제로 등극</a>
         </p>
     </div>
 </div>
 
+<div class="row mb-3">
+    <div class="col-xl-5 col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">
+                    Google
+                </h4>
+                <p class="card-text">
+                    Google Pay는 Google에서 개발한 모바일 결제 서비스<br />
+                    <br />
+                    모바일 기기에서 인앱, 온라인 및 비접촉 직접 구매를 지원<br />
+                    사용자가 Android 휴대전화, 태블릿 또는 시계로 결제할 수 있음<br />
+                </p>
+                <p>
+                    Google, Android에서 새로운 개인 정보 보호 기반 광고 도구 테스트 시작<br />
+                    <br />
+                    1. 대중이 광고주의 눈알을 엿보는 것에 대해 더 많이 인식<br />
+                    2. Apple이 표적 광고를 제한하기 위해 보다 극적인 조치를 취함<br />
+                    3. Google은 수익성이 좋은 광고 사업을 점진적으로 조정<br />
+                    4. 휴대전화 사용자에게 더 많은 프라이버시를 제공하기로 되어 있는 모바일 플랫폼의 새로운 광고 기능 스택<br />
+                    5. 새로운 프라이버시 샌드박스는 타사 광고 서비스와 협력하는 앱 개발자뿐만 아니라 광고주에게 Google의 새로운 광고 솔루션을 테스트할 수 있는 방법을 제공<br />
+                    6. 라이버시 샌드박스의 새로운 API는 식별자를 사용하여 앱과 웹사이트에서 활동을 추적하지 않음<br />
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-7 col-lg-12 px-3 mt-3">
+        <p class="mb-3">
+            <span class="badge badge-outline-secondary">구글</span>
+            <span class="badge badge-outline-secondary">가상 카드</span>
+            <span class="badge badge-outline-secondary">프라이버시와 광고</span>
+        </p>
+        <p class="mb-3">
+            <a href="https://blog.google/products/shopping/shop-and-pay-with-confidence/">5 tips to confidently shop and pay online with Google</a>
+        </p>
+        <p class="mb-3">
+            <a href="https://www.zdnet.com/article/google-begins-testing-new-privacy-driven-ad-tools-on-android/">Google begins testing new privacy-driven ad tools on Android</a>
+        </p>
+    </div>
+</div>
 
 <div class="row mb-3">
     <div class="col-xl-5 col-lg-12">
@@ -171,4 +225,3 @@ tags: ["네이버", "구글"]
         </p>
     </div>
 </div>
-
