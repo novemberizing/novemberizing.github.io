@@ -14,10 +14,13 @@ tags: ["네이버", "구글"]
         <div class="card">
             <div class="card-body">
                 <h4 class="card-title">
-                    네이버, 창작자 콘텐츠 큐레이션 기능 더해 ‘인플루언서 서비스홈’ 새단장
+                    Google Pay - Virtual Card
                 </h4>
                 <p class="card-text">
-                    네이버, 창작자 콘텐츠 큐레이션 기능 더해 ‘인플루언서 서비스홈’ 새단장
+                    Google Pay는 Google에서 개발한 모바일 결제 서비스<br />
+                    <br />
+                    모바일 기기에서 인앱, 온라인 및 비접촉 직접 구매를 지원<br />
+                    사용자가 Android 휴대전화, 태블릿 또는 시계로 결제할 수 있음<br />
                 </p>
             </div>
         </div>
@@ -25,7 +28,7 @@ tags: ["네이버", "구글"]
     <div class="col-xl-7 col-lg-12 px-3 mt-3">
         <p class="mb-3">
             <span class="badge badge-outline-secondary">구글</span>
-            <span class="badge badge-outline-secondary">가상 카드 번호</span>
+            <span class="badge badge-outline-secondary">가상 카드</span>
         </p>
         <p class="mb-3">
             <a href="https://blog.google/products/shopping/shop-and-pay-with-confidence/">5 tips to confidently shop and pay online with Google</a>
