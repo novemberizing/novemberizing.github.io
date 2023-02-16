@@ -40,12 +40,10 @@ tags: ["네이버", "구글", "디지털 헬스 케어"]
     </div>
     <div class="col-xl-7 col-lg-12 px-3 mt-3">
         <p class="mb-3">
-            <span class="badge badge-outline-secondary">구글</span>
-            <span class="badge badge-outline-secondary">가상 카드</span>
-            <span class="badge badge-outline-secondary">프라이버시와 광고</span>
+            <span class="badge badge-outline-secondary">디지털 헬스 케어</span>
         </p>
         <p class="mb-3">
-            <a href="http://www.monews.co.kr/news/articleView.html?idxno=320002">에임메드 ‘솜즈’, 국내 1호 디지털 치료제로 등극</a>
+            <a href="https://www.monews.co.kr/news/articleView.html?idxno=320002">에임메드 ‘솜즈’, 국내 1호 디지털 치료제로 등극</a>
         </p>
     </div>
 </div>
