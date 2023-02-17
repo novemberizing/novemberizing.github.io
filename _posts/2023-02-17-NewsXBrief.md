@@ -9,7 +9,7 @@ categories: posts
 tags: ["구글", "사이버 위협", "보안"]
 ---
 
-[Fog of war: how the Ukraine conflict transformed the cyber threat landscape]((https://blog.google/threat-analysis-group/fog-of-war-how-the-ukraine-conflict-transformed-the-cyber-threat-landscape/) | Shane Huntley - Senior Director, Threat Analysis Group
+[Fog of war: how the Ukraine conflict transformed the cyber threat landscape](https://blog.google/threat-analysis-group/fog-of-war-how-the-ukraine-conflict-transformed-the-cyber-threat-landscape/) | Shane Huntley - Senior Director, Threat Analysis Group
 
 ### 주요 내용
 
