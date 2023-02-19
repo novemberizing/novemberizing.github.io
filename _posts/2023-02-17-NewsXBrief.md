@@ -4,7 +4,7 @@ section: "2023년 2월 14일"
 title: "우크라이나 분쟁이 사이버 위협 환경을 변화시킨 방법 보고서 발표"
 subtitle: "우크라이나 분쟁이 사이버 위협 환경을 변화시킨 방법 보고서 발표"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
-date: "2023-02-14 11:30:00"
+date: "2023-02-16 11:30:00"
 categories: posts
 tags: ["구글", "사이버 위협", "보안"]
 ---

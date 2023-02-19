@@ -4,7 +4,7 @@ section: "2023년 2월 14일"
 title: "식약처, 15일 불면증 치료제 앱 '솜즈' 국내 품목허가"
 subtitle: "식약처, 15일 불면증 치료제 앱 '솜즈' 국내 품목허가"
 cover: /assets/images/posts/2022-01-08-Decentralization.png
-date: "2023-02-14 11:30:00"
+date: "2023-02-15 11:30:00"
 categories: posts
 tags: ["네이버", "구글", "디지털 헬스 케어"]
 ---

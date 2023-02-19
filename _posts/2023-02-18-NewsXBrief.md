@@ -4,7 +4,7 @@ section: "2023년 2월 14일"
 title: ""
 subtitle: ""
 cover: /assets/images/posts/2022-01-08-Decentralization.png
-date: "2023-02-14 11:30:00"
+date: "2023-02-17 11:30:00"
 categories: posts
 tags: ["메타버스"]
 ---
