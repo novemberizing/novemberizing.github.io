@@ -53,3 +53,28 @@ tags: ["기아차", "UAE IDEX 2023"]
 - 메타버스(Metaverse·3건)
 
 > 7가지 주제 총 26건의 프로젝트 기반으로 스타트업을 모집
+
+
+### OpenAI: ChatGPT 현재의 위치와 개선방안
+
+### OpenAI: ChatGPT 현재의 위치와 개선방안
+
+일반 소프트웨어와 달리 우리 모델은 대규모 신경망 - 명시적으로 프로그래밍된 것이 아니라 광범위한 데이터에서 학습
+
+1. 사전훈련: 모델이 많은 인터넷 텍스트(및 다양한 관점)에 대한 노출을 통해 정보를 받아 문장의 다음 단어를 예측하는 방법을 학습
+2. 미세 조정
+
+현재로서는 "미세조정" 프로세스가 불완전
+
+1. 시스템 개발에서 검토자의 역할과 OpenAI의 정책 - 경우에 따라 특정 종류의 출력에 대해 검토자에게 지침을 제공할 수 있음
+2. 편향 해결
+
+현재 미세 조정 프로세스를 보다 이해하기 쉽고 제어하기 쉽게 만드는 방법을 연구하고 있으며 규칙 기반 보상 및 헌법 AI와 같은 외부 발전을 기반으로 하고 있음
+
+개선방안
+
+1. Improve default behavior.
+2. Define your AI’s values, within broad bounds.
+3. Public input on defaults and hard bounds.
+
+![image](https://cdn.openai.com/how-should-ai-systems-behave/draft-20230216a/building-chatgpt-future.svg)
