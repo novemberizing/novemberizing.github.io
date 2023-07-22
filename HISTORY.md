@@ -9,6 +9,7 @@
         6. 이전에 작성한 모든 파일을 없앤다.
         7. Let's automatically reload when the content changes [OK]
 		8. README.md 꾸미기
+		9. 블로그 페이지를 만든다.
 
             
 HOMEPAGE VERSION UP
