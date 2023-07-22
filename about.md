@@ -20,6 +20,7 @@ tags: ["Developer", "Entrepreneur"]
 - Develop identity access management system. [@novemberizing/iam](https://github.com/novemberizing/iam)
 - Develop 'Voyant math' frontend. [Voyant math](https://study.voyantmath.com/)
 - Develop 'A Euclid' Bubu service.
+- Develop novemberizing homepage using jekyll. [Novemberizing](https://novemberizing.github.io/)
 
 ----
 

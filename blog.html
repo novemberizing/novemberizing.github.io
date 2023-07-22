@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Novemberizing
+pagination: 
+  enabled: true
 ---
 
 {% assign page = site.posts.first %}
@@ -8,11 +10,3 @@ title: Novemberizing
 {% for post in paginator.posts %}
     {% include post.html %}
 {% endfor %}
-
-<!-- <section class="resume-section">
-    <div class="resume-section-content">
-        <div class="mb-5 px-2">
-            HELLO WORLD
-        </div>
-    </div>
-</section> -->
