@@ -37,13 +37,13 @@
                     <li class="nav-item"><a class="nav-link" href="/about.html"><small>About</small></a></li>
                     <hr />
                     <li class="nav-item">
-                        <a class="text-white" href="https://www.linkedin.com/in/discomplexity/"><i class="fab fa-linkedin fa-lg"></i></a>
-                        <a class="text-white" href="https://www.facebook.com/novemberizing"><i class="fab fa-facebook-square fa-lg"></i></a>
-                        <a class="text-white" href="https://twitter.com/novemberizing/"><i class="fab fa-twitter-square fa-lg"></i></a>
-                        <a class="text-white" href="https://github.com/iticworld"><i class="fab fa-github-square fa-lg"></i></a>
-                        <a class="text-white" href="mailto:discomplexity16@gmail.com"><i class="fas fa-envelope-square fa-lg"></i></a>
-                        <a class="text-white" href="https://www.instagram.com/novemberizing/"><i class="fab fa-instagram-square fa-lg"></i></a>
-                        <a class="text-white" href="#"><i class="fas fa-rss-square fa-lg"></i></a>
+                        <a class="text-white" href="https://www.linkedin.com/in/{{ site.linkedin }}/"><i class="fab fa-linkedin fa-lg"></i></a>
+                        <a class="text-white" href="https://www.facebook.com/{{ site.facebook }}"><i class="fab fa-facebook-square fa-lg"></i></a>
+                        <a class="text-white" href="https://twitter.com/{{ site.twitter }}/"><i class="fab fa-twitter-square fa-lg"></i></a>
+                        <a class="text-white" href="https://github.com/{{ site.github }}"><i class="fab fa-github-square fa-lg"></i></a>
+                        <a class="text-white" href="mailto:{{ site.email }}"><i class="fas fa-envelope-square fa-lg"></i></a>
+                        <a class="text-white" href="https://www.instagram.com/{{ site.instagram }}/"><i class="fab fa-instagram-square fa-lg"></i></a>
+                        <a class="text-white" href="/feed.xml"><i class="fas fa-rss-square fa-lg"></i></a>
                     </li>
                     <hr >
                     <li class="nav-item">
@@ -66,21 +66,32 @@
         <div class="container-fluid p-0">
             <section class="resume-section">
                 <div class="resume-section-content">
-                    <h1 class="mb-0"><a href="{{ post.url }}" class="text-black text-decoration-none">{{ page.title }}</a></h1>
-                    <div class="subheading mx-2 mb-5">
-                        {{ page.subtitle }}
+                    <h3 class="mb-0">
+                        <a href="{{ post.url }}" class="text-black text-decoration-none">{{ page.title }}</a>
+                    </h3>
+                    <div class="mb-1 px-2 text-uppercase text-start">
+                        <a class="text-secondary text-decoration-none" href="https://www.linkedin.com/in/{{ site.linkedin }}/"><i class="fab fa-linkedin fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="https://www.facebook.com/{{ site.facebook }}"><i class="fab fa-facebook-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="https://twitter.com/{{ site.twitter }}/"><i class="fab fa-twitter-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="https://github.com/{{ site.github }}"><i class="fab fa-github-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="mailto:{{ site.email }}"><i class="fas fa-envelope-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="https://www.instagram.com/{{ site.instagram }}/"><i class="fab fa-instagram-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="/feed.xml"><i class="fas fa-rss-square fa-lg"></i></a>
                     </div>
                     <div class="mb-5 px-2">
                         {{ content }}
                     </div>
-                    <div class="mb-1 px-2 text-uppercase text-center">
+                    <div class="mb-1 px-2 text-uppercase text-start">
                         Published on {{ page.date | date_to_string }}
                     </div>
-                    <div class="mb-1 px-2 text-uppercase text-center">
-                        <a class="text-secondary text-decoration-none" href="#"><i class="fab fa-linkedin fa-lg"></i></a>
-                        <a class="text-secondary text-decoration-none" href="#"><i class="fab fa-facebook-square fa-lg"></i></a>
-                        <a class="text-secondary text-decoration-none" href="#"><i class="fab fa-twitter-square fa-lg"></i></a>
-                        <a class="text-secondary text-decoration-none" href="#"><i class="fas fa-rss-square fa-lg"></i></a>
+                    <div class="mb-1 px-2 text-uppercase text-start">
+                        <a class="text-secondary text-decoration-none" href="https://www.linkedin.com/in/{{ site.linkedin }}/"><i class="fab fa-linkedin fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="https://www.facebook.com/{{ site.facebook }}"><i class="fab fa-facebook-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="https://twitter.com/{{ site.twitter }}/"><i class="fab fa-twitter-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="https://github.com/{{ site.github }}"><i class="fab fa-github-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="mailto:{{ site.email }}"><i class="fas fa-envelope-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="https://www.instagram.com/{{ site.instagram }}/"><i class="fab fa-instagram-square fa-lg"></i></a>
+                        <a class="text-secondary text-decoration-none" href="/feed.xml"><i class="fas fa-rss-square fa-lg"></i></a>
                     </div>
                 </div>
             </section>

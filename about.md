@@ -1,287 +1,143 @@
 ---
 layout: about
 title: "Hyunsik Park"
-subtitle: "Just Developer / Enjoy Programming / Do not interest to invest / 😀 / 🇰🇷"
 cover: /assets/images/posts/HyunsikPark.png
-date: "2021-12-24 23:48:00"
+date: "2023-07-22 18:42:00"
+tags: ["Developer", "Entrepreneur"]
 ---
 
-<table class="d-block d-lg-none" style="width: 100%;" >
-    <tr>
-        <td style="vertical-align: top;">
-            <img src="/assets/images/posts/HyunsikPark.png" style="width: 100%; vertical-align: top;">
-        </td>
-    </tr>
-    <tr>
-        <td style="vertical-align: top;">
-            <h4 class="m-3">저는 박현식이라고 합니다.</h4>
-            <p>저는 그냥 개발자입니다. 프로그래밍을 하는 것을 즐기며, 무엇인가 프로그래밍을 통하여 만들어 내는 것을 좋아합니다.</p>
-            <p>
-                저는 세상에 작은 가치라도 주고 싶어한답니다.
-                많은 실수와 실패를 거듭하고, 성공도 해보았지만, 남는 것은 그렇게 많지 않네요.
-                지금 제가 가진 것을 바탕으로 세상을 이롭게 하는 가치있는 소프트웨어나 제품을 만들고 싶어 한답니다.
-            </p>
-            <p>
-                지금은, 작은 회사에서 회사를 키우기 위해서 열심히 일하고 있답니다.
-                쉽지는 않네요. 개발자로 무엇인가를 만드는 것에만 몰두했던 과거를 돌아보며,
-                아쉽게 놓친 부분이 개발 이 외에 제품을 사용자가 사용하게 하는 능력을 키우는 것을 놓친 것 같습니다.
-                뭐! 개발자가 굳이 알아야 하지 않겠지만, 개발만 하는 것에서 벗어나서 같이 회사를 키운다는 생각을 가지게 된다면,
-                아주 중요한 능력이라고 생각이 되네요. 그래서 개발 이 외에 회사를 키우기 위한 능력을 키우지 못한 것을 후회하지만,
-                지금부터 노력하여 성장하면 된다고 생각합니다. 만사 긍정적이기도 하지요.
-            </p>
-            <p>
-                아쉽게도 삼류 무협 소설의 주인공 같은 삶을 살고 있는데, 무공비급을 얻지 못하고, 그저 주화입마만 겪고 있답니다. 씁쓸하지만,
-                언젠가 비급을 얻게 될 날이 오겠지요. 😀
-            </p>
-        </td>
-    </tr>
-</table>
-<table class="d-none d-lg-block" style="width: 100%;" >
-    <tr>
-        <td style="width: 25%;">
-            <img src="/assets/images/posts/HyunsikPark.png" style="width: 100%; vertical-align: top;">
-        </td>
-        <td class="px-3 py-3" style="vertical-align: top;">
-            <h4>저는 박현식이라고 합니다.</h4>
-            <p>저는 그냥 개발자입니다. 프로그래밍을 하는 것을 즐기며, 무엇인가 프로그래밍을 통하여 만들어 내는 것을 좋아합니다.</p>
-            <p>
-                저는 세상에 작은 가치라도 주고 싶어한답니다.
-                많은 실수와 실패를 거듭하고, 성공도 해보았지만, 남는 것은 그렇게 많지 않네요.
-                지금 제가 가진 것을 바탕으로 세상을 이롭게 하는 가치있는 소프트웨어나 제품을 만들고 싶어 한답니다.
-            </p>
-            <p>
-                지금은, 작은 회사에서 회사를 키우기 위해서 열심히 일하고 있답니다.
-                쉽지는 않네요. 개발자로 무엇인가를 만드는 것에만 몰두했던 과거를 돌아보며,
-                아쉽게 놓친 부분이 개발 이 외에 제품을 사용자가 사용하게 하는 능력을 키우는 것을 놓친 것 같습니다.
-                뭐! 개발자가 굳이 알아야 하지 않겠지만, 개발만 하는 것에서 벗어나서 같이 회사를 키운다는 생각을 가지게 된다면,
-                아주 중요한 능력이라고 생각이 되네요. 그래서 개발 이 외에 회사를 키우기 위한 능력을 키우지 못한 것을 후회하지만,
-                지금부터 노력하여 성장하면 된다고 생각합니다. 만사 긍정적이기도 하지요.
-            </p>
-            <p>
-                아쉽게도 삼류 무협 소설의 주인공 같은 삶을 살고 있는데, 무공비급을 얻지 못하고, 그저 주화입마만 겪고 있답니다. 씁쓸하지만,
-                언젠가 비급을 얻게 될 날이 오겠지요. 😀
-            </p>
-        </td>
-    </tr>
-</table>
-
-## Curriculum vitae
-
-### 0. CURRENT
-
-LINUX, AWS, NODEJS, KLAYTN, NFT, TMUX, NODEJS, WEBRTC, REACT, DOCKER, BOOTSTRAP, JAVASCRIPT, FONTAWESOME
-
-- NFT PILOT (2021/12/08 ~ 2021/12/16)
-
-  KLAYTN을 이용한 간단한 NFT 발행하는 것에 대한 파일럿 진행
-
-- WEBRTC PILOT (2021/12/17 ~ 2021/12/22)
-
-  간단한 화상채팅을 위한 파일럿 진행
-
-  <img src="/assets/images/posts/xwebvideochat.gif" style="width: 50%" class="d-none d-lg-block">
-  <img src="/assets/images/posts/xwebvideochat.gif" style="width: 100%" class="d-block d-lg-none ">
-
-### 1. PROGRAMMING LANGUAGE
-
-C/C++, JAVA, JAVASCRIPT, PYTHON, KOTLIN, GO, HTML, XML, PHP, C#, ASP, ASP.NET, SQL
-
-### 2. OPERATING SYSTEM
-
-LINUX, WINDOWS, AIX, ANDROID, MAC
-
-### 3. SOFTWARE, LIB & SERVICE
-
-REDIS, FFMPEG, ZABBIX, ZEN, VMWARE, IOCP, REACT, VUEJS, TMUX, KAFKA, NETTY, SPRING BOOT, NODEJS, UNDERTOW, OPENGL, DIRECT X, EMSCRIPTEN, SDL, LIBEVENT, WEBRTC, NFT, KLAYTN, BOOTSTRAP, AWS, SCRATCH, MARIADB, ORACLE, MYSQL, SQLITE, ELECTRON, CHROME EXTENSION, JSON, ANSIBLE, AWX, ADOBE XD, INVISION, MSSQL, ZIGBEE, BLUETOOTH, WIFI, EPOLL, UNITY, FIREBASE, ASPECT J, REACTIVE X, TCP/UDP STACK, TCP/UDP SOCKET, RABBITMQ, MONGODB, WEBSOCKET
-
-### 4. PROJECT
-
-- __33. HOMEWORLD BIG FILE BUILDER & PARSER__
-
-  홈월드2 모델 언패킹 & 패킹 프로그램
-
-  홈월드2 의 쉽을 언패킹하여 프로그램 상에서 출력할 수 있도록 하는 프로그램을 윈도우즈와 웹에서 실행할 수 있도록 만들었습니다.
-  아래의 링크는 그것을 보여주는 것으로 조금 기다려야 하지만 건담이 출력되는 것을 확인할 수 있을 것 입니다.
-
-  [Homeworld Gundam](https://iticworld.github.io/)
-
-  <img src="/assets/images/posts/Homeworld2Gundam.png" style="width: 25%" class="d-none d-lg-block">
-  <img src="/assets/images/posts/Homeworld2Gundam.png" style="width: 100%" class="d-block d-lg-none ">
-
-- __32. PERSONNEL REACTIVE LIB / ALL__
-
-    개인적 Reactive X 라이브러리
-
-    개인적으로 Rx 개념을 적용하여 만들어본 라이브러리입니다. 채팅 시스템에 도입하여 개발 시간을 단축시킬 수 있었습니다.
-
-    [Reactive Lib](https://github.com/iticworld/reactive-lib)
-
-- __31. PERSONNEL ISO IMAGE BUILDER & PARSER / ALL__
-
-  개인적으로 ISO 이미지를 빌드하고 또 이미지의 내용을 추출하는 프로그램을 만들었습니다.
-
-- __30. PERSONNEL EVENT LIB / ALL__
-
-  약 10만 트랜잭션을 처리하는 C 기반의 네트워크 라이브러리
-
-- __29. TEST PROGRAM / ALL__
-
-  API 전수 검사를 위한 파이썬 스크립트 부분적 적용
-
-  특정 API 의 전수 검사를 수행하는 파이썬 어플리케이션을 만들어서 테스트 시간 및 테스트에 들어가는 인력 비용을 줄일 수 있었습니다.
-
-- __28. EDUCATION CODING APP / REMUNERATION__
-
-  코딩 교육 어플리케이션의 안정화 작업
-
-  어플리케이션의 크래쉬가 발생하는 문제가 있어서 그것을 해결해 주고 그 외에 안정화를 위한 다양한 요구사항을 처리해주었습니다.
-
-- __27. ITSM SOLUTION / REMUNERATION__
-
-  ITSM 솔루션의 안정화 작업이었습니다.
-
-- __26. COLLABORATION EDITOR SYSTEM / BACKEND__
-
-  동시 문서 편집 서버 개발
-
-  이 업무에 대해서는 할 말이 많습니다. 사실 대화의 실패였던 것은 맞습니다.
-  클라이언트와 서버가 긴밀히 협업하여 좋은 솔루션부터 찾는 것을 했어야 했고,
-  이것을 굳이 자바로 짜지 않아도 되는 부분이었습니다.
-  여튼, 무슨 제약 사항을 그렇게 많이 걸어 놓고 손발 짤린 기분으로 개발했었네요.
-  손발짤리더라도 한 손 남은 상황에서 개발했었습니다.
-  맞춰 달라는 것을 많이 맞춰 주었고, 저는 할 도리는 다 했다고 봅니다.
-  씁쓸하네요. 쉽게 갈 일을 제약에 의하여 너무 어렵게 갔습니다.
-  어쩔 수 없는 것이 저 말고 백엔드는 자바뿐이 못 다루었던 것 같습니다.
-  그럼 맞춰줘야죠. 씁쓸하네요.
-
-- __25. DOCUMENT & IMAGE CONVERTOR / REMUNERARION__
-
-  이미지 변환 서버 안정화
-
-  썸네일 생성 혹은 이미지 리사이징 관련된 서버를 만드는 작업이었습니다. 투명 이미지 처리에 문제가 있어서 그리고 구조적으로 결함이 있어서 안정화 시켜주었습니다.
-
-- __24. WEBSOCKET SERVER / REMUNERATION__
-
-  웹소켓 서버 안정화
-
-  회사에 들어오기 전에 매번 떨어지던 서버였던 모양입니다. 늘 일주일 혹은 하루 이틀에 한 번씩 사람이 서버를 내리고 올리는 것을 수행하고 있었던 것 같구요.
-  Jetty 였던 가 자바 네트워크 라이브러리와 스프링 부트 사이에서 채널 종료시에 메모리릭 발생하는 문제였습니다. 뭐 이런 것은 하루만에 해결하는 것 아니겠습니까? 농담입니다. 🤪
-  라이브러리를 언더토우로 변경하면서 해결되었습니다. 
-
-- __23. COLLABORATION SYSTEM / BACKEND__
-
-  협업툴을 만드는 곳에서 백엔드 엔지니어로 다양한 작업을 수행하였습니다.
-
-- __22. ANDROID KEYBOARD USING LIBUSB / ALL__
-
-  LIBUSB 를 이용한 안드로이드 키보드 장치 어플리케이션
-
-  LIBUSB를 이용하여 안드로이드 키보드 장치로 PC를 인식시켜 키보드 입력을 제어하는 프로젝트였습니다.
-
-- __21. ANDROID DISPLAY SHARE SYSTEM / ALL__
-
-  WEBRTC 를 이용한 안드로이드와 브라우져 간에 화면 공유
-
-  WEBRTC를 이용해서 안드로이드의 화면을 브라우져와 공유하는 파일럿입니다. PC 에서 안드로이드를 제어하는 개인적인 소프트웨어를 만들어 보려고 했었던 적이 있었는데 그것을 만들기 위한 선행 프로젝트였습니다.
-
-- __20. NETWORK TCP SOCKET LIB / ALL__
-
-  C 기반의 TCP/IP 소켓 라이브러리 개발
-
-  뭐~ 이런 것을 만드는데 능숙한 모양입니다. 일주일 걸렸네요.
-
-- __19. ANDROID MESSAGE APP / ANDROID__
-
-  안드로이드 어플리케이션 개발
-
-  사실, 앱의 성능이 너무 느리다고 하여 잠깐 봐준 적이 있었는데 Aspect 라이브러리를 이용하여 딜레이 되는 구간을 찾고 튜닝하는 것이었습니다.
-  스타트업의 그렇죠. 우선 제품을 빨리 만드는 것이 최우선되어야 합니다. 그렇기 때문에 구조적으로 문제가 있다고 하여도 참고 버티며 가야 하는데,
-  아쉽게도 그 상황이었던 것 같습니다. 지금 생각해 보면 차라리 외주를 주거나 여러 사람을 뽑아서 시간이 걸리더라도 리뉴얼하고 남은 팀은 그것을 계속 유지 보수 대응하는 것으로 방향을 잡았어야 했다고 생각합니다.
-  아쉽지만, 현재도 같은 문제에서 벗어나지 못하고 있을 것 같네요.
-
-- __18. 2D GAME DEV - FAIL / ALL__
-
-  유니트를 이용한 게임 개발 - 실패
-
-  게임 리소스를 패킹하거나 언패킹하는 소프트웨어를 개발했고, 유니티를 이용한 게임 로비까지 개발했었습니다.
-  사실 다 만들었어야 하지만, 중도에 퇴사하게 되었네요.
-
-- __17. 2D BOARD GAME TO HTML5 / ALL__
-
-  EMSCRIPTEN 을 이용한 2D 사행성 게임을 HTML5 변환
-
-  제가 제일 싫어하는 사행성 게임을 손을 대었답니다. 싫은데도 이 업무를 수행했던 것은 대표의 비전과 가치가 좋았기 때문입니다. 실제 방향성 역시 좋았구요. 싫어하는 것을 하면서도 궁극적으로는 대표의 방향으로 가겠다 싶었습니다. 그 정도면 제가 싫어하는 것도 감수해야겠지요. 여튼, 다이렉트 X 7 기반의 라이브러리를 개발했습니다. COM 인터페이스만 있었기 때문에 모든 것을 자바스크립트로 직접 구현해야 했었지요. 이것도 경량의 라이브러리였습니다. GIF 이미지가 있어서 어쩔 수 없이 GIF 파일 스펙을 보고 자바스크립트로 구현했었습니다. 3RD 파티 라이브러리를 쓰지 않은 것은 만드는데, 일주일 정도 걸렸고, 또한, 실제로 어플리케이션이 웹에서 동작하기에 무거웠기 때문에, 직접 만들었던 것 입니다.
-
-- __16. CHATTING SYSTEM / ALL__
-
-  채팅 서비스 시스템 개발
-
-  뭐! 언제나 그러하듯 혼자서 만드는 거죠. Reactive X 개념에 빠져서 직접 Reactive 라이브러리를 만드는 뻘 짓도 해보고, 텔레그램 메신져와 통합하고, NODEJS 를 백엔드로 하는 인터페이스 서버 개발하고 FIREBASE, KAFKA 등을 도입하고, 안드로이드 어플 개발하고, 뭐 이런 것들을 혼자서 하는데, 씁쓸하죠. 같이 하고 싶었는데, 느리게 걷더라도 같이 하고 싶습니다.
-
-- __15. ANDROID WIFI SHARE APP / ANDROID DEV__
-
-  와이파이 공유 안드로이드 어플리케이션
-
-  잠시 전체적으로 구조를 변경해야 해서 Rx 개념을 도입하여 새롭게 리뉴얼 했던 프로젝트입니다. 약 한달 조금 넘게 걸렸네요.
-  혼자 리뉴얼하는 것이 아니라는 것을 알지만, Rx 개념부터 어플리케이션이 레이어를 나누고 구조화시키는 것에 대한 개념을 받아 드릴 만한 사람이 없다고 판단하여 혼자 리뉴얼했었네요. 아마도 설명하고 설득하고 이해시켰다면, 시간이 더 많이 소요되었을 것 입니다. 다만, 시간이 소요되더라도 설득과 이해, 팀의 의견을 합일 시켜 가야 하는 것은 맞다고 생각이 드네요.
-
-- __14. ANDROID MESH USING BLUETOOTH / ALL__
-
-  안드로이드 블루투스를 이용하여 인터넷을 공유할 수 있는 어플리케이션
-
-  하나의 어플리케이션이 하나의 노드가 되고 노드 간의 연결을 블루투스를 사용했던 제품이었습니다. 이것을 만들기 위해서 경량의 TCP/IP 스택을 자바로 구현해야 했고, 또한 TCP/IP 소켓을 사용해야 했기 때문에, NIO 기반의 라이브러리를 만들었습니다. 가장 쉬운 O LOG N 정도의 다익스트라라는 알고리즘을 구현하였고, 성능이 우수한 편은 아니지만 간단하게 자체적으로 알고리즘을 구현하였습니다. 블루투스다 보니 자주 끊기는 경우가 너무 많이 발생하고, 또한 전송 밴드위드(bandwidth)가 그렇게 우수하지 않아서 크게 상업성이 있어 보이지는 않았습니다. 지금은, 뭐 블루투스 스팩이나 WIFI 스펙을 살펴보면, 알아서 지원하는 것 같은 문구들이 보이더라구요. 뭐 지금 생각하면, 그저 재미난 프로젝트가 아니었나 합니다. 제가 씁쓸해 하는 프로젝트입니다. 이 프로젝트를 하는 동안 저의 인생이 힘들어질 것 같다고 예상했었네요. 아니나 다를까! 힘들줄은 알았지만 이렇게 힘들줄은 물랐다라고 말하고 다닌 답니다.
-
-- __13. EXPERIMENTAL MEASUREMENT SOFTWARE / PROJECT MANAGER__
-
-  다른 회사의 소프트웨어 개발 프로젝트를 관리했던 프로젝트로 처음 프로젝트 관리자 역할을 했답니다. 실험장비를 통한 실험 결과 값의 측정을 출력하는 소프트웨어의 개발 관리로 실패하지 않았답니다. 그것만 해도 다행이지요.
-
-- __12. AUTO ISSUE TRACKING SYSTEM / ALL__
-
-  자동으로 이슈를 수집하는 시스템으로, 이 시스템은 디자인을 제외하고는 저 혼자 만들었어요. WEB은 APM 으로 WINDOWS REST API 서버 (IOCP, HTTP), 안드로이드 라이브러리, 거의 다 혼자서 만들었답니다. 이 프로젝트가 중간 중간 커뮤니케이션 실수로 LINUX 기반에서 WINDOWS 기반으로 변경되는 그리고 데이터베이스도 MYSQL 에서 오라클로 변경되는 그런 무자비한 일을 겪고도 일정을 지킨 프로젝트 입니다. 이 시기에 저는 주화입마에 빠져 있을 때인데도 밤을 새어가면서 일정을 지켰죠. 그것도 저 혼자서! 강조하고 싶습니다.
-
-- __11. MEDIA CONVERTER / ALL__
-
-  FFMPEG 을 이용한 미디어 컨버터를 만드는 것으로 서비스 가능한 컨버터를 하루 이틀 만에 만든 것입니다.
-
-- __10. DISTRIBUTED IN-MEMORY CACHE SYSTEM / ALL__
-
-  레디스를 이용한 분산 메시지 저장 시스템을 만드는 프로젝트였습니다.
-  분산 인 메모리 스토리지를 혼자 만든 프로젝트입니다. 거의 혼자죠. 뭐 이 정도 되는 것은 혼자 만드는 것 아니겠습니까? 사실 눈물납니다. 같이 싶었다는 것! 1024 바이트의 메시지를 14시간 동안 50억건을 주고 받을 정도의 성능이었습니다. 약 초당 8만 건이죠. 그 외에 루아 스크립트를 이용하여 복잡한 비즈니스 로직을 외부에서 로딩할 수 있도록도 해 놓았습니다. 아참, 그 당시에는 레디스는 분산 로직을 지원하지 않았답니다. 같은 프로젝트 사람들에게 분산 로직을 지원하기 전까지 쓸 수 있는 녀석을 만들자라고 하여서 만든 것 입니다. 저는 있으면 안 만들어요. 있으면 쓰면 되는 것을! 하하하!
-
-- __9. SESSION TCP SERVER / ALL__
-
-  50만 이상의 세션을 감당할 수 있는 TCP 소켓 서버
-
-  암호화를 하지 않으면 150만까지 하나의 어플리케이션에서 세션을 유지하고 메시지를 주고 받을 수 있도록 한 서버입니다. 안정적으로 짰던 것죠. 그러기 위해서 성능을 트레이드 오프했지만, 성능 역시 세션을 유지하는 것에 비해 충분히 빨랐습니다. 또한, 이것을 테스트하기 위해서 6만 클라이언트 세션을 유지하고 테스트 로직을 수행하는 어플리케이션도 만들었지요. 이것이 걸린 시간이 1달 정도 소요되었습니다. 기능개선, 버그 픽스등은 뻰 것입니다.
-
-- __8. NETWORK TCP SOCKET LIB / ALL__
-
-  아래 기술하는 세션서버와 분산 인메모리 캐쉬 서버를 만드는 근간이 되는 라이브러리를 C++로 만들었습니다. 최대 성능을 낼 수도 있고, 많은 세션을 감당할 수도 있도록 만든 서버를 위한 라이브러리입니다.
-
-- __7. PERSONNEL OPENGL UTIL / ALL__
-
-  개인적으로 Freeglut 같은 Library 를 만들었던 경험이 있습니다.
-
-- __6. AUTOMATED DOOR LOCK SYSTEM / ALL__
-
-  지그비를 이용한 외부에서 자동으로 문을 열고 닫을 수 있는 시스템을 만드는 프로젝트로, IoT 개념이 없을 때의 IoT 정도로 생각하시면 됩니다. HOME AUTOMATION 같은 거죠. 안드로이드와 아이폰 그리고 벡엔드 등을 개발했었습니다. 서버는 윈도우즈 서버와 WEB, 이 정도가 기억나네요.
-
-- __5. DATABASE MIGRATION / ALL__
-
-  그 당시는 좋은 마이그레이션 툴이 없었기 때문에 간단한 마이그레이션 툴을 만들고 작업을 진행하였습니다.
-
-- __4. MP3 PLAYER / APPLICATION DEV__
-
-  저는 MP3 플레이어 개발 시절에 좋은 개발팀을 만났다고 생각합니다. 개발의 프로세스를 배우고, 리눅스도 처음 접하며, 많은 것을 배웠던 프로젝트입니다. 저 자신이 많이 성장했다는 생각이 드네요. 윈도우즈 개발하던 사람을 리눅스 개발에 투입시키는 것에 큰 불만을 가졌지만, 뭐, 제가 스스로 배워서 일을 수행하는데 능숙하긴 해서 괜찮았습니다. 다만, 무지 힘들었습니다. 그렇지만 리눅스에 푹 빠져 버린 시절이네요. 새벽 다섯시에 일어나서 통근 버스에서 공부를 하고 저녁 통근 버스에서도 공부를 했던 시절이랍니다. 리눅스를 몰랐으니 열심히 공부해야 했지요.
-
-- __3. 2D BOARD GAME / ALL__
-
-  실수라고 생각되는 저의 암흑기랍니다. 원래 괜찮은 게임을 만든다고 했었는데, 우선 이것부터 해야 한다는 이야기를 듣고 업무를 수행했지만, 혼자 혹은 둘이서는 쉽지 않지요. 앞으로 나아가지 못하고 결국은 목표를 달성하지 못하고 사행성 게임만 만들고 말았으며, 결국은 그만 두게 되었습니다. 그래서 지금도 사행성 게임으라면 쳐다도 보지 않고 있습니다.
-
-- __2. HR SYSTEM USING AUTOMATION / ALL__
-
-  인사, 노무 관리 시스템을 만드는 프로젝트였습니다. 작은 회사는 보통 업무를 엑셀로 수행하는데, 많은 것들이 엑셀로 되어 있어서 EXCEL AUTOMATION, MFC, TCP/IP SOCKET, ACTIVE X, XML 등을 사용하여 웹서비스를 개발하였습니다.
-
-- __1. HOMEPAGE / ALL__
-
-  PHP로 되어 있는 회사 홈페이지를 ASP.NET 으로 변경하는 작업
+<span class="badge badge-outline-secondary">DEVELOPER</span>
+<span class="badge badge-outline-secondary">ENTREPRENEUR</span>
+
+----
+
+#### Current
+
+----
+
+- Develop a nodejs library that implements a new way of handling resources. [@novemberizing/storage](https://github.com/novemberizing/storage)
+- Develop a framework based on nodejs that can create an application server with configuration. [@novemberizing/app](https://github.com/novemberizing/app)
+- Develop identity access management system. [@novemberizing/iam](https://github.com/novemberizing/iam)
+- Develop 'Voyant math' frontend. [Voyant math](https://study.voyantmath.com/)
+- Develop 'A Euclid' Bubu service.
+
+----
+
+#### Technology stack
+
+----
+
+<span class="badge badge-outline-secondary">C/C++</span>
+<span class="badge badge-outline-secondary">JAVA</span>
+<span class="badge badge-outline-secondary">JAVASCRIPT</span>
+<span class="badge badge-outline-secondary">PYTHON</span>
+<span class="badge badge-outline-secondary">KOTLIN</span>
+<span class="badge badge-outline-secondary">GO</span>
+<span class="badge badge-outline-secondary">HTML</span>
+<span class="badge badge-outline-secondary">XML</span>
+<span class="badge badge-outline-secondary">PHP</span>
+<span class="badge badge-outline-secondary">C#</span>
+<span class="badge badge-outline-secondary">ASP</span>
+<span class="badge badge-outline-secondary">ASP.NET</span>
+<span class="badge badge-outline-secondary">SQL</span>
+<span class="badge badge-outline-secondary">LINUX</span>
+<span class="badge badge-outline-secondary">WINDOWS</span>
+<span class="badge badge-outline-secondary">AIX</span>
+<span class="badge badge-outline-secondary">ANDROID</span>
+<span class="badge badge-outline-secondary">MAC</span>
+<span class="badge badge-outline-secondary">REDIS</span>
+<span class="badge badge-outline-secondary">FFMPEG</span>
+<span class="badge badge-outline-secondary">ZABBIX</span>
+<span class="badge badge-outline-secondary">ZEN</span>
+<span class="badge badge-outline-secondary">VMWARE</span>
+<span class="badge badge-outline-secondary">IOCP</span>
+<span class="badge badge-outline-secondary">REACT</span>
+<span class="badge badge-outline-secondary">VUEJS</span>
+<span class="badge badge-outline-secondary">TMUX</span>
+<span class="badge badge-outline-secondary">KAFKA</span>
+<span class="badge badge-outline-secondary">NETTY</span>
+<span class="badge badge-outline-secondary">SPRING BOOT</span>
+<span class="badge badge-outline-secondary">NODEJS</span>
+<span class="badge badge-outline-secondary">UNDERTOW</span>
+<span class="badge badge-outline-secondary">OPENGL</span>
+<span class="badge badge-outline-secondary">DIRECT X</span>
+<span class="badge badge-outline-secondary">EMSCRIPTEN</span>
+<span class="badge badge-outline-secondary">SDL</span>
+<span class="badge badge-outline-secondary">LIBEVENT</span>
+<span class="badge badge-outline-secondary">WEBRTC</span>
+<span class="badge badge-outline-secondary">NFT</span>
+<span class="badge badge-outline-secondary">KLAYTN</span>
+<span class="badge badge-outline-secondary">BOOTSTRAP</span>
+<span class="badge badge-outline-secondary">AWS</span>
+<span class="badge badge-outline-secondary">SCRATCH</span>
+<span class="badge badge-outline-secondary">MARIADB</span>
+<span class="badge badge-outline-secondary">ORACLE</span>
+<span class="badge badge-outline-secondary">MYSQL</span>
+<span class="badge badge-outline-secondary">SQLITE</span>
+<span class="badge badge-outline-secondary">ELECTRON</span>
+<span class="badge badge-outline-secondary">CHROME EXTENSION</span>
+<span class="badge badge-outline-secondary">JSON</span>
+<span class="badge badge-outline-secondary">ANSIBLE</span>
+<span class="badge badge-outline-secondary">AWX</span>
+<span class="badge badge-outline-secondary">ADOBE XD</span>
+<span class="badge badge-outline-secondary">INVISION</span>
+<span class="badge badge-outline-secondary">MSSQL</span>
+<span class="badge badge-outline-secondary">ZIGBEE</span>
+<span class="badge badge-outline-secondary">BLUETOOTH</span>
+<span class="badge badge-outline-secondary">WIFI</span>
+<span class="badge badge-outline-secondary">EPOLL</span>
+<span class="badge badge-outline-secondary">UNITY</span>
+<span class="badge badge-outline-secondary">FIREBASE</span>
+<span class="badge badge-outline-secondary">ASPECT J</span>
+<span class="badge badge-outline-secondary">REACTIVE X</span>
+<span class="badge badge-outline-secondary">TCP/UDP</span>
+<span class="badge badge-outline-secondary">SOCKET</span>
+<span class="badge badge-outline-secondary">RABBITMQ</span>
+<span class="badge badge-outline-secondary">MONGODB</span>
+<span class="badge badge-outline-secondary">WEBSOCKET</span>
+<span class="badge badge-outline-secondary">DOCKER</span>
+<span class="badge badge-outline-secondary">FONTAWESOME</span>
+
+----
+
+#### Project
+
+----
+
+- AEUCLID / NFT PILOT
+- AEUCLID / WEBRTC PILOT
+- HOMEWORLD BIG FILE BUILDER & PARSER
+- PERSONNEL REACTIVE LIB / ALL
+- PERSONNEL ISO IMAGE BUILDER & PARSER / ALL
+- PERSONNEL EVENT LIB / ALL
+- TEST AUTOMATION PROGRAM / ALL
+- EDUCATION CODING APP / REMUNERATION
+- ITSM SOLUTION / REMUNERATION
+- COLLABORATION EDITOR SYSTEM / BACKEND
+- DOCUMENT & IMAGE CONVERTOR / REMUNERARION
+- WEBSOCKET SERVER / REMUNERATION
+- COLLABORATION SYSTEM / BACKEND
+- ANDROID KEYBOARD USING LIBUSB / ALL
+- ANDROID DISPLAY SHARE SYSTEM / ALL
+- NETWORK TCP SOCKET LIB / ALL
+- ANDROID MESSAGE APP / ANDROID
+- 2D GAME DEV / ALL
+- 2D BOARD GAME TO HTML5 USINg EMSCRIPTEN / ALL
+- CHATTING SYSTEM / ALL
+- ANDROID WIFI SHARE APP / ANDROID
+- ANDROID MESH USING BLUETOOTH / ALL
+- EXPERIMENTAL MEASUREMENT SOFTWARE / PROJECT MANAGER
+- AUTO ISSUE TRACKING SYSTEM / ALL
+- MEDIA CONVERTER / ALL
+- DISTRIBUTED IN-MEMORY CACHE SYSTEM / ALL
+- SESSION TCP SERVER / ALL
+- NETWORK TCP SOCKET LIB / ALL
+- OPENGL UTIL / ALL
+- AUTOMATED DOOR LOCK SYSTEM / ALL
+- DATABASE MIGRATION / ALL
+- MP3 PLAYER / APPLICATION
+- 2D BOARD GAME / ALL
+- HR SYSTEM USING AUTOMATION / ALL
+- HOMEPAGE / ALL
+
+----

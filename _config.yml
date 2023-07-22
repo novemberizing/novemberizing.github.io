@@ -3,7 +3,7 @@ description: "Novemberizing's Blog"
 baseurl: "/"
 url: "https://novemberizing.github.io"
 author: "Hyunsik Park"
-email: "discomplexity16@gmail.com"
+email: "novemberizing@gmail.com"
 website: "https://novemberizing.github.io"
 linkedin: "novemberizing"
 github: "iticworld"
@@ -23,47 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# category_archive:
-#   type: liquid
-#   path: /categories/
-
-# sass:
-#   style: compressed
-
-
-
-# include: [_pages]
-# exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
-
-
-# # Paginate
-# paginate: 1
-# paginate_path: 'page:num'
-# words_per_minute: 200
-
-# # Build settings
-# markdown: kramdown
-# mathjax: true
-# highlighter: rouge
-# compress_html:
-#   clippings: all
-#   comments: all
-#   startings: [html, head, body]
-
-# # Outputting
-# # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-# category_archive:
-#   type: liquid
-#   path: /categories/
-
-# sass:
-#   style: compressed
-
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-feed
-#   - jekyll-sitemap
-
-# include: [_pages]
-# exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+exclude:
+  - HISTORY.md
+  - README.md
