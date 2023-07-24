@@ -2,7 +2,7 @@
 layout: post
 section: "Tensorflow.js"
 title: "Tensorflow.js Tensor and Operation"
-# cover: /assets/images/posts/2022-01-08-Decentralization.png
+cover: /assets/images/posts/2023-07-24-Tensorflow-js-Tensor-and-Operation.png
 date: "2023/07/24 10:41:00"
 categories: posts
 tags: ["Tensorflow.js", "Tensor", "Operation"]
