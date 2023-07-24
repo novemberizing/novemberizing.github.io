@@ -30,5 +30,6 @@ plugins:
 exclude:
   - HISTORY.md
   - README.md
+  - /temp
 
 future: true

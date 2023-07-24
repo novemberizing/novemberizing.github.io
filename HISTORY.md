@@ -4,6 +4,10 @@
 		2. Add image links to items listed on the index page.
 			인덱스 페이지에 나열된 아이템들에 이미지 링크를 달자.
 		3. Change markdown theme [ok]
+		4. 하단의 포스트 이동 메뉴가 마음에 들지 않는다.
+
+![bugix.20230724131600.001](/temp/bugix.20230724131600.001.png)
+![bugix.20230724131600.002](/temp/bugix.20230724131600.002.png)
 
 	* BUG FIX
 		1. blog.html pagination not working in the github pages [ok]
