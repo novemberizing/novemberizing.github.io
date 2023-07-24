@@ -15,6 +15,9 @@ paginate_path: "/blog/page:num/"
 words_per_minute: 200
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 mathjax: true
 highlighter: rouge
 google_analytics: 'G-10W4MY2Q8K'
