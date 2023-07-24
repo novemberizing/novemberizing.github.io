@@ -2,6 +2,7 @@
 layout: post
 section: "Tensorflow.js"
 title: "Tensorflow.js Tensor and Operation"
+description: "'Tensorflow.js'는 'Javascript'에서 텐서를 사용하여 계산을 정의하고 실행하는 프레임워크입니다. 텐서는 벡터와 행렬을 더 높은 차원으로 일반화한 것입니다."
 cover: /assets/images/posts/2023-07-24-Tensorflow-js-Tensor-and-Operation.png
 date: "2023/07/24 10:41:00"
 categories: posts
