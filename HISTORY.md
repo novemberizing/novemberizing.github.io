@@ -30,7 +30,7 @@
 
 Rollback `jekyll-paginate`
 
-_config.yml
+1. Update `_config.yml`
 
 ```
 ...
@@ -44,6 +44,21 @@ plugins:
   - jekyll-paginate
 
 ...
+```
+
+2. `blog.html` to `blog/index.html`
+
+```
+---
+layout: default
+title: Novemberizing
+---
+
+{% assign page = site.posts.first %}
+{% assign content = page.content %}
+{% for post in paginator.posts %}
+    {% include post.html %}
+{% endfor %}
 ```
 
 ### Link
