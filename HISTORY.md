@@ -19,3 +19,39 @@
 		11. paginator.posts in blog.html doesn't work. [OK]
 		12. First blog post
 		13. Fixup blog link [OK]
+
+### FUTURE
+	* BUG FIX
+		1. blog.html pagination not working in the github pages
+
+> `jekyll-paginate-v2` is not supported by github pages.
+
+### Solution
+
+Rollback `jekyll-paginate`
+
+_config.yml
+
+```
+...
+
+paginate: 1
+paginate_path: "/blog/page:num/"
+
+...
+
+plugins:
+  - jekyll-paginate
+
+...
+```
+
+### Link
+
+[paginator.posts not working in Jekyll-paginate-v2 on Github Pages](https://stackoverflow.com/a/63363042)
+
+    Just want to bring your attention that jekyll-paginate-v2 is not supported by GitHub pages.
+
+		2. Warning:  github-pages can't satisfy your Gemfile's dependencies.
+			Bundler can't satisfy your Gemfile's dependencies.
+			Install missing gems with `bundle install`.

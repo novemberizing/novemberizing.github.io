@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Novemberizing
-pagination: 
-  enabled: true
 ---
 
 {% assign page = site.posts.first %}

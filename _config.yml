@@ -9,24 +9,8 @@ linkedin: "novemberizing"
 github: "iticworld"
 twitter: "@novemberizing"
 
-pagination:
-  enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 1
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  tag: ''
-  locale: '' 
-  trail: 
-    before: 2
-    after: 2
-  extension: html
-  indexpage: 'blog'
+paginate: 1
+paginate_path: "/blog/page:num/"
 
 words_per_minute: 200
 
@@ -36,7 +20,7 @@ highlighter: rouge
 google_analytics: 'G-10W4MY2Q8K'
 
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
 
