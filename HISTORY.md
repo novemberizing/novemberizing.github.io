@@ -9,6 +9,8 @@
 ![bugix.20230724131600.001](/temp/bugix.20230724131600.001.png)
 ![bugix.20230724131600.002](/temp/bugix.20230724131600.002.png)
 
+		5. 슬랙과 디스코드 아이콘을 달자.
+
 	* BUG FIX
 		1. blog.html pagination not working in the github pages [ok]
 		2. Warning:  github-pages can't satisfy your Gemfile's dependencies.
