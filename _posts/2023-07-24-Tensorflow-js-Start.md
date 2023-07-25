@@ -145,3 +145,5 @@ async function run() {
 > Tensorflow.js data provides simple API to load and parse data from disk or over the web in a variety of formats, and to prepare that data for use in machine learning models (e.g. via operations like filter, map, shuffle, and batch).
 >
 > [Data](https://js.tensorflow.org/api/latest/?hl=ko&_gl=1*rpyc7p*_ga*NTIwMTkwMjg4LjE2ODgwMTY5NDQ.*_ga_W0YLR4190T*MTY5MDI0ODgxOC43LjEuMTY5MDI0OTQ5MS4wLjAuMA..#Data)
+
+<!-- TODO: Bug fix: DevTools failed to load source map: Could not load content for https://cdn.jsdelivr.net/npm/@tensorflow/tf.min.js.map: HTTP 오류: 상태 코드 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE -->
