@@ -3,7 +3,7 @@ layout: post
 section: "Tensorflow.js"
 title: "Tensorflow.js Start"
 description: ""
-cover: /assets/images/posts/2023-07-25-Tensorflow-js-Setting.png
+cover: /assets/images/posts/2023-07-25-Tensorflow-js-Start.png
 date: "2023/07/24 11:27:00"
 categories: posts
 tags: ["Tensorflow.js", "Development", "Environment", "Start"]
