@@ -105,6 +105,40 @@ tags: ["Developer", "Entrepreneur"]
 
 ----
 
+- BUBU / AEUCLID SERVICE PROJECT / BACKEND, FRONTEND, ANDROID
+
+<div class="row mb-3" style="padding-left: 32px;">
+    <div class="col col-md-6 col-xl-3">
+        <div class="card">
+            <img src="/assets/images/portfolio/www.bubus.co.kr.png" class="card-img-top" alt="Portfolio">
+            <div class="card-body">
+                <h5 class="card-title">STATIC WEB</h5>
+                <p class="card-text">
+                    <span class="badge badge-outline-secondary">Bootstrap</span>
+                    <span class="badge badge-outline-secondary">Firebase</span>
+                    <span class="badge badge-outline-secondary">FlexStart</span>
+                    <span class="badge badge-outline-secondary">Javascript</span>
+                    <span class="badge badge-outline-secondary">HTML</span>
+                    <span class="badge badge-outline-secondary">Docker</span>
+                    <span class="badge badge-outline-secondary">AWS</span>
+                    <span class="badge badge-outline-secondary">Nginx</span>
+                </p>
+                <p class="card-text">
+                    <ul>
+                        <li>"부부"란 서비스를 제공하는 에이유클리드의 서비스 페이지</li>
+                        <li>파이어베이스를 이용하여 뉴스레터 및 컨택 폼 서비스를 제공</li>
+                        <li>백엔드 없이 제공되는 정적 사이트</li>
+                    </ul>
+                </p>
+                <p class="card-text">
+                    <a href="https://bootstrapmade.com/flexstart-bootstrap-startup-template/">FlexStart</a>,
+                    <a href="https://www.bubus.co.kr/">Website</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
 - AEUCLID / NFT PILOT
 - AEUCLID / WEBRTC PILOT
 - HOMEWORLD BIG FILE BUILDER & PARSER
