@@ -1,7 +1,7 @@
 ---
 layout: post
 section: "Tensorflow.js"
-title: "Tensorflow.js" Conversion Import Keras"
+title: "Tensorflow.js Conversion Import Keras"
 description: ""
 cover: /assets/images/posts/2023-08-04-Tensorflow-js-Conversion-Import-Keras.png
 date: "2023/08/04 09:38:00"
