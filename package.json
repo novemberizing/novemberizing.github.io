@@ -1,0 +1,27 @@
+{
+  "name": "novemberizing.github.io",
+  "version": "0.0.1",
+  "description": "novemberizing's personnel website",
+  "main": "./src/index.js",
+  "scripts": {
+    "build": "projectedby static gen --theme=novemberizing --destination=docs",
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novemberizing/novemberizing.github.io.git"
+  },
+  "keywords": [
+    "novemberizing"
+  ],
+  "author": "novemberizing <novemberizing@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/novemberizing/novemberizing.github.io/issues"
+  },
+  "homepage": "https://github.com/novemberizing/novemberizing.github.io#readme",
+  "dependencies": {
+    "@projectedby/cms": "^0.0.29",
+    "showdown-katex": "^0.8.0"
+  }
+}
