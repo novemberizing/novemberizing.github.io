@@ -18,57 +18,33 @@ echo "<p>Hello world</p>" > index.html ; Start-Process -FilePath Chrome -Argu
 
 그런데, 이것만 가지고 프로그래밍 언어라고 하기에는 뭔가 부족해 보여서, 조금 시간을 투자해보기로 했답니다. 코드를 짜듯이 형식와 규격에 맞추어서 산술연산을 하는 프로그램을 태그를 통해서 만들어 보자.
 
+두번째, 산술 연산이 가능한 프로그램을 태그를 통해서 정의하자. 그리고 화면에 출력될 때 정의한 프로그램의 결과를 출력해주자.
 
+<sean-programming>
+    <sean-declare name="x" value="1"></sean-declare>
+    <sean-declare name="y" value="2"></sean-declare>
+    <sean-function name="add" parameter="x, y" return="x + y"></sean-function>
+    <sean-declare name="result">
+        <sean-exec type="function" target="add">
+            <sean-parameter type="variable" target="x"></sean-parameter>
+            <sean-parameter type="variable" target="y"></sean-parameter>
+        </sean-exec>
+    </sean-declare>
+    <sean-exec type="stdio" target="printf">
+            <sean-parameter type="string" value="result %d"></sean-parameter>
+            <sean-parameter type="variable" target="result"></sean-parameter>
+    </sean-exec>
+    <sean-return type="variable" target="result"></sean-return>
+</sean-programming>
 
+위 처럼 한땀 한땀 한 라인의 코드를 정의해보았습니다. 역시 정확하게 3을 출력해주는군요. 🤪
 
+HTML 스펙에는 사용자 태그를 정의할 수 있도록 합니다. 저도 아직 스펙을 다 읽어 보지 않고 필요한 부분만 읽어 보아서, 아직은 HTML 을 차마 잘하는 언어로 넣을 수는 없지만, 언젠가 HTML 스펙을 완독하고 HTML 로 다양한 것들을 만들 수 있다면, HTML 을 저의 스킬 페이지에 한줄 추가하는 것으로 🤪 HTML4 에서는 스키마를 정의할 수 있었는데, HTML5 는 스키마를 정의할 수 있는지 잘 모르겠지만, 사용자 스키마를 정의하고 그곳에 사용자 엘레먼트를 정의할 수 있다면, 프로그래밍 언어라고 부르는 것에 큰 문제도 없어 보입니다. 지금의 프로그래밍 가능성을 보여준 것으로도 괜찮지 않을까요?
 
-어쩌면 마크업 언어라고 보는 것이 정확한 판단일 수 있지요. 다만, "프로그래밍 가능한 언어다"라고 생각하며, 지금도 "Hello world" 정도 출력하는 프로그램을 만들 수 있다고 봅니다. HTML 을 잘 안다는 것을 개발자의 스킬 중에 하나로 보아도 된다고 생각하구요.
+인터넷에 언제부터인가 HTML is a programming language. 라는 인터넷 밈들이 돌아다디던데, 프로그램을 만들 수 있도록 한다면, 프로그래밍 언어라고 할 수도 있어 보이고요. 선언형 프로그래밍 언어로 보는 것도 좋아 보이고, 이 밈은 정말 재미있으면서도 저를 어렵게 하네요. 🤔
 
-"프로그래밍 언어는 컴퓨터 시스템에서 구동시키는 소프트웨어를 작성하기 위한 언어다."라고 본다면, "현재는 브라우져란 런타임에서 'Hello world'를 출력할 수 있다." 정도로 판단합니다. 그래서 어쩌면 "프로그래밍 언어일 수도 있겠다." 정도가 저의 판단이랍니다. 혹자들은 "선언적 프로그래밍 언어"라고 하는데, 이 부분도 충분히 공감하고 웹 페이지를 보여주기 위한 프로그래밍 언어로 생각하기도 한답니다. 저도 이런 부분 때문에 정확히 판단할 수 없네요.
+여튼, 저는 HTML 로 명령형 프로그램이 할 수 있는 것들을 간단하게나마 보여주었기 때문에, 저는 앞으로 HTML 을 프로그래밍 언어로 보려고 합니다. 🤪
 
-echo "<p>Hello world</p>" > index.html ; Start-Process -FilePath Chrome -ArgumentList file:///C:/Users/novem/index.html
-
-<<Powershell>>
-
-다만, 인터넷에 돌아다니는 밈들을 보니, HTML 을 스킬로 취급하지 않아 보이네요. 이 부분이 저는 아쉬운 부분이랍니다. 너무 언어를 잘 만들어서 스펙을 볼 필요 없이 쉽기 때문에 HTML을 잘 한다고 스킬로 쓸 수 없는 듯 하지만, 실제로 HTML 을 잘 안다는 것은 A4 용지 800 페이지 분량의 스펙을 잘 안다는 이야기로 판단해야 할 수도 있기에, 잘 하는 언어 스킬로 넣어도 되지 않나 생각이 됩니다.
-
-장난끼가 발동해서 HTML 도 프로그래밍 가능한 언어로 만들어 버릴까 생각했는데, 
-"연말은 휴식을 취하며 내년을 준비하자"라는 게으름이 밀려와서, 대략 아이디어만 공유해봅니다.
-
-HTML SPEC 에서 확인할 수 있듯이 HTML 로 커스텀 태그를 만들 수 있답니다.
-
-<programming>
-
-    <declare name="x" value="1" />
-
-    <declare name="y" value="2" />
-
-    <function name="add" parameter="x, y">
-
-        <programming-add return="x+y" />
-
-    </function>
-
-    <declare name="result">
-
-        <exec type="function" target="add">
-
-            <parameter type="variable" target="x" />
-
-            <parameter type="variable" target="y" />
-
-        </exec>
-
-    </declare>
-
-    <exec type="stdio" target="printf">
-
-         <parameter type="string" value="result %d\n" />
-
-         <parameter type="variable" target="result" />
-
-    </exec>
-
-</programming>
+그리고 HTML 을 잘한다고 한다면, 자신의 스킬 셋에 HTML을 넣어 두는 것도 무방하다고 봅니다.
 
 https://html.spec.whatwg.org/#custom-elements

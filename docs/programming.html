@@ -23,13 +23,13 @@
                             for(const child of this.children) {
                                 if(child['get']) {
                                     lines.push(child['get']());
-                                } else {
-                                    console.log(child.tagName);
                                 }
                             }
                             const all = lines.join('\n');
-                            console.log(all);
-                            console.log(eval(all));
+                            const code = document.createElement('pre');
+                            code.innerText = this.innerHTML;
+                            this.after(code);
+                            code.after(eval(all));
                         }
                     });
 
