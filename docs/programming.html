@@ -1,0 +1,186 @@
+<html>
+    <head>
+        <script>
+            class Programming extends HTMLElement {
+                constructor() {
+                    super();
+                    
+                    let append = false;
+                    let observer = new MutationObserver((mutations, observer) => {
+                        for(const mutation of mutations) {
+                            if(mutation.type === 'childList') {
+                                for(const node of mutation.addedNodes) {
+                                    if(node.tagName === 'SEAN-PROGRAMMING') {
+                                        append = true;
+                                        return;
+                                    }
+                                }
+                            }
+                        }
+                        if(append) {
+                            observer.disconnect();
+                            const lines = [];
+                            for(const child of this.children) {
+                                if(child['get']) {
+                                    lines.push(child['get']());
+                                } else {
+                                    console.log(child.tagName);
+                                }
+                            }
+                            const all = lines.join('\n');
+                            console.log(all);
+                            console.log(eval(all));
+                        }
+                    });
+
+                    observer.observe(document.body, {attributes: false, childList: true, characterData: false, subtree: false});
+
+                }
+            }
+            class Declare extends HTMLElement {
+                static observedAttributes = ["name", "value"];
+
+                name = undefined;
+                value = undefined;
+
+                constructor() {
+                    super();
+                }
+
+                get() {
+                    if(this.value === undefined && this.children.length > 0) {
+                        return `let ${this.name} = ${this.children[0].get()};`;
+                    }
+                    return `let ${this.name} = ${this.value};`;
+                }
+
+                attributeChangedCallback(name, o, n) {
+                    this[name] = n;
+                }
+            }
+            class Function extends HTMLElement {
+                static observedAttributes = ["name", "parameter", "return"];
+
+                name = null;
+                parameter = null;
+                return = null;
+
+                constructor() {
+                    super();
+                }
+
+                get() {
+                    return `function ${this.name}(${this.parameter}){ return ${this.return}; }`;
+                }
+
+                attributeChangedCallback(name, o, n) {
+                    this[name] = n;
+                }
+            }
+            class Add extends HTMLElement {
+                constructor() {
+                    super();
+                }
+            }
+            class Execute extends HTMLElement {
+                static observedAttributes = ["type", "target"];
+
+                target = null;
+                type = null;
+
+                constructor() {
+                    super();
+                }
+
+                get() {
+                    const parameters = [];
+                    for(const child of this.children) {
+                        parameters.push(child.get());
+                    }
+
+                    if(this.type === 'stdio') {
+                        if(this.target === 'printf') {
+                            return `console.log(${parameters});`;
+                        }
+                        throw new Error();
+                    }
+
+                    return `${this.target}(${parameters})`;
+                }
+
+                attributeChangedCallback(name, o, n) {
+                    this[name] = n;
+                }
+            }
+            class Parameter extends HTMLElement {
+                static observedAttributes = ["type", "target", "value"];
+
+                type = null;
+                target = null;
+                value = null;
+
+                constructor() {
+                    super();
+                }
+
+                get() {
+                    switch(this.type){
+                        case "variable": return this.target;
+                        case "string":   return `"${this.value}"`;
+                    }
+                    
+                }
+
+                attributeChangedCallback(name, o, n) {
+                    this[name] = n;
+                }
+            }
+
+            class Return extends HTMLElement {
+                static observedAttributes = ["type", "target"];
+
+                type = null;
+                target = null;
+
+                constructor() {
+                    super();
+                }
+
+                get() {
+                    return `${this.target};`;
+                }
+
+                attributeChangedCallback(name, o, n) {
+                    this[name] = n;
+                }
+            }
+
+            customElements.define('sean-programming', Programming);
+            customElements.define('sean-declare', Declare);
+            customElements.define('sean-function', Function);
+            customElements.define('sean-programming-add', Add);
+            customElements.define('sean-exec', Execute);
+            customElements.define('sean-parameter', Parameter);
+            customElements.define('sean-return', Return);
+            
+        </script>
+    </head>
+    <body>
+        <sean-programming>
+            <sean-declare name="x" value="1"></sean-declare>
+            <sean-declare name="y" value="2"></sean-declare>
+            <sean-function name="add" parameter="x, y" return="x + y"></sean-function>
+            <sean-declare name="result">
+                <sean-exec type="function" target="add">
+                    <sean-parameter type="variable" target="x"></sean-parameter>
+                    <sean-parameter type="variable" target="y"></sean-parameter>
+                </sean-exec>
+            </sean-declare>
+            <sean-exec type="stdio" target="printf">
+                 <sean-parameter type="string" value="result %d"></sean-parameter>
+                 <sean-parameter type="variable" target="result"></sean-parameter>
+            </sean-exec>
+            <sean-return type="variable" target="result"></sean-return>
+        </sean-programming>
+    </body>
+</html>
